@@ -1,0 +1,26 @@
+{
+  "name": "au-postcode-data",
+  "version": "1.0.0",
+  "description": "json + csv format data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuraitruong/au-postcode-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuraitruong/au-postcode-data/issues"
+  },
+  "homepage": "https://github.com/samuraitruong/au-postcode-data#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fs-extra": "^9.0.1",
+    "tiny-async-pool": "^1.2.0"
+  }
+}
