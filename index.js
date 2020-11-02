@@ -25,16 +25,21 @@ async function getPostCodeListUrl(url) {
 }
 
 async function getInfo(url) {
-  const res = await axios.get(url);
-  const $ = cheerio.load(res.data);
-  const strong = $('#colTwo strong').toArray();
-  const data = {
-    name: $(strong[1]).text(),
-    postcode: $(strong[2]).text(),
-  };
+  try {
+    const res = await axios.get(url);
+    const $ = cheerio.load(res.data);
+    const strong = $('#colTwo strong').toArray();
+    const data = {
+      name: $(strong[1]).text(),
+      postcode: $(strong[2]).text(),
+    };
 
-  console.log(data);
-  return data;
+    console.log(data);
+    return data;
+  } catch (err) {
+    console.error('Error: ', url);
+  }
+  return null;
 }
 async function fetch(state) {
   const urls = await getStateLink(state);
@@ -44,8 +49,17 @@ async function fetch(state) {
   console.log('Total postcode found', detailsUrl.length);
   const results = await asyncPool(50, detailsUrl, getInfo);
 
-  fs.writeJsonSync('./data/' + state + '.json', results, { spaces: 4 });
+  fs.writeJsonSync('./data/' + state + '.json', results.filter(Boolean), {
+    spaces: 4,
+  });
 }
 (async () => {
-  await fetch('vic');
+  //await fetch('vic');
+  //await fetch('tas');
+  // await fetch('wa');
+  // await fetch('nt');
+  // await fetch('nsw');
+  await fetch('qld');
+  await fetch('act');
+  await fetch('sa');
 })();

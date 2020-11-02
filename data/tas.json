@@ -1,0 +1,3118 @@
+[
+    {
+        "name": "ABBOTSHAM",
+        "postcode": "7315"
+    },
+    {
+        "name": "ABELS BAY",
+        "postcode": "7112"
+    },
+    {
+        "name": "ABERDEEN",
+        "postcode": "7310"
+    },
+    {
+        "name": "ACACIA HILLS",
+        "postcode": "7306"
+    },
+    {
+        "name": "ACTON",
+        "postcode": "7320"
+    },
+    {
+        "name": "ACTON PARK",
+        "postcode": "7170"
+    },
+    {
+        "name": "ADVENTURE BAY",
+        "postcode": "7150"
+    },
+    {
+        "name": "AKAROA",
+        "postcode": "7216"
+    },
+    {
+        "name": "ALBERTON",
+        "postcode": "7263"
+    },
+    {
+        "name": "ALBION HEIGHTS",
+        "postcode": "7050"
+    },
+    {
+        "name": "ALCOMIE",
+        "postcode": "7330"
+    },
+    {
+        "name": "ALLENS RIVULET",
+        "postcode": "7150"
+    },
+    {
+        "name": "ALONNAH",
+        "postcode": "7150"
+    },
+    {
+        "name": "AMBLESIDE",
+        "postcode": "7310"
+    },
+    {
+        "name": "ANDOVER",
+        "postcode": "7120"
+    },
+    {
+        "name": "ANSONS BAY",
+        "postcode": "7264"
+    },
+    {
+        "name": "ANTILL PONDS",
+        "postcode": "7120"
+    },
+    {
+        "name": "APOLLO BAY",
+        "postcode": "7150"
+    },
+    {
+        "name": "APSLAWN",
+        "postcode": "7190"
+    },
+    {
+        "name": "APSLEY",
+        "postcode": "7030"
+    },
+    {
+        "name": "ARTHUR RIVER",
+        "postcode": "7330"
+    },
+    {
+        "name": "ARTHURS LAKE",
+        "postcode": "7030"
+    },
+    {
+        "name": "AUSTINS FERRY",
+        "postcode": "7011"
+    },
+    {
+        "name": "AVOCA",
+        "postcode": "7213"
+    },
+    {
+        "name": "BADEN",
+        "postcode": "7120"
+    },
+    {
+        "name": "BADGER HEAD",
+        "postcode": "7270"
+    },
+    {
+        "name": "BAGDAD",
+        "postcode": "7030"
+    },
+    {
+        "name": "BAGDAD NORTH",
+        "postcode": "7030"
+    },
+    {
+        "name": "BAKERS BEACH",
+        "postcode": "7307"
+    },
+    {
+        "name": "BANCA",
+        "postcode": "7265"
+    },
+    {
+        "name": "BANGOR",
+        "postcode": "7267"
+    },
+    {
+        "name": "BARNES BAY",
+        "postcode": "7150"
+    },
+    {
+        "name": "BARRETTA",
+        "postcode": "7054"
+    },
+    {
+        "name": "BARRINGTON",
+        "postcode": "7306"
+    },
+    {
+        "name": "BATHURST STREET PO",
+        "postcode": "7000"
+    },
+    {
+        "name": "BATTERY POINT",
+        "postcode": "7004"
+    },
+    {
+        "name": "BEACONSFIELD",
+        "postcode": "7270"
+    },
+    {
+        "name": "BEAUMARIS",
+        "postcode": "7215"
+    },
+    {
+        "name": "BEAUTY POINT",
+        "postcode": "7270"
+    },
+    {
+        "name": "BEECHFORD",
+        "postcode": "7252"
+    },
+    {
+        "name": "BELL BAY",
+        "postcode": "7253"
+    },
+    {
+        "name": "BELLERIVE",
+        "postcode": "7018"
+    },
+    {
+        "name": "BELLINGHAM",
+        "postcode": "7254"
+    },
+    {
+        "name": "BEN LOMOND",
+        "postcode": "7212"
+    },
+    {
+        "name": "BERRIEDALE",
+        "postcode": "7011"
+    },
+    {
+        "name": "BEULAH",
+        "postcode": "7306"
+    },
+    {
+        "name": "BICHENO",
+        "postcode": "7215"
+    },
+    {
+        "name": "BINALONG BAY",
+        "postcode": "7216"
+    },
+    {
+        "name": "BIRCHS BAY",
+        "postcode": "7162"
+    },
+    {
+        "name": "BIRRALEE",
+        "postcode": "7303"
+    },
+    {
+        "name": "BISHOPSBOURNE",
+        "postcode": "7301"
+    },
+    {
+        "name": "BLACK HILLS",
+        "postcode": "7140"
+    },
+    {
+        "name": "BLACK RIVER",
+        "postcode": "7321"
+    },
+    {
+        "name": "BLACKMANS BAY",
+        "postcode": "7052"
+    },
+    {
+        "name": "BLACKSTONE HEIGHTS",
+        "postcode": "7250"
+    },
+    {
+        "name": "BLACKWALL",
+        "postcode": "7275"
+    },
+    {
+        "name": "BLACKWOOD CREEK",
+        "postcode": "7301"
+    },
+    {
+        "name": "BLESSINGTON",
+        "postcode": "7212"
+    },
+    {
+        "name": "BLUE ROCKS",
+        "postcode": "7255"
+    },
+    {
+        "name": "BLUMONT",
+        "postcode": "7260"
+    },
+    {
+        "name": "BOAT HARBOUR",
+        "postcode": "7321"
+    },
+    {
+        "name": "BOAT HARBOUR BEACH",
+        "postcode": "7321"
+    },
+    {
+        "name": "BONNET HILL",
+        "postcode": "7053"
+    },
+    {
+        "name": "BOOBYALLA",
+        "postcode": "7264"
+    },
+    {
+        "name": "BOOMER BAY",
+        "postcode": "7177"
+    },
+    {
+        "name": "BOTHWELL",
+        "postcode": "7030"
+    },
+    {
+        "name": "BOYER",
+        "postcode": "7140"
+    },
+    {
+        "name": "BRACKNELL",
+        "postcode": "7302"
+    },
+    {
+        "name": "BRADYS LAKE",
+        "postcode": "7140"
+    },
+    {
+        "name": "BRANDUM",
+        "postcode": "7304"
+    },
+    {
+        "name": "BRANXHOLM",
+        "postcode": "7261"
+    },
+    {
+        "name": "BREADALBANE",
+        "postcode": "7258"
+    },
+    {
+        "name": "BREAM CREEK",
+        "postcode": "7175"
+    },
+    {
+        "name": "BREONA",
+        "postcode": "7304"
+    },
+    {
+        "name": "BRIDGENORTH",
+        "postcode": "7277"
+    },
+    {
+        "name": "BRIDGEWATER",
+        "postcode": "7030"
+    },
+    {
+        "name": "BRIDPORT",
+        "postcode": "7262"
+    },
+    {
+        "name": "BRIGHTON",
+        "postcode": "7030"
+    },
+    {
+        "name": "BRITTONS SWAMP",
+        "postcode": "7330"
+    },
+    {
+        "name": "BROADMARSH",
+        "postcode": "7030"
+    },
+    {
+        "name": "BROADMEADOWS",
+        "postcode": "7330"
+    },
+    {
+        "name": "BRONTE PARK",
+        "postcode": "7140"
+    },
+    {
+        "name": "BROOKLYN",
+        "postcode": "7320"
+    },
+    {
+        "name": "BROOKS BAY",
+        "postcode": "7116"
+    },
+    {
+        "name": "BUCKLAND",
+        "postcode": "7190"
+    },
+    {
+        "name": "BUNGAREE",
+        "postcode": "7256"
+    },
+    {
+        "name": "BURNIE",
+        "postcode": "7320"
+    },
+    {
+        "name": "BURNS CREEK",
+        "postcode": "7212"
+    },
+    {
+        "name": "BUSHY PARK",
+        "postcode": "7140"
+    },
+    {
+        "name": "BUTLERS GORGE",
+        "postcode": "7140"
+    },
+    {
+        "name": "CAIRNS BAY",
+        "postcode": "7116"
+    },
+    {
+        "name": "CALDER",
+        "postcode": "7325"
+    },
+    {
+        "name": "CAMBRIDGE",
+        "postcode": "7170"
+    },
+    {
+        "name": "CAMDALE",
+        "postcode": "7320"
+    },
+    {
+        "name": "CAMENA",
+        "postcode": "7316"
+    },
+    {
+        "name": "CAMPANIA",
+        "postcode": "7026"
+    },
+    {
+        "name": "CAMPBELL TOWN",
+        "postcode": "7210"
+    },
+    {
+        "name": "CAPE BARREN ISLAND",
+        "postcode": "7257"
+    },
+    {
+        "name": "CAPE PORTLAND",
+        "postcode": "7264"
+    },
+    {
+        "name": "CARLTON",
+        "postcode": "7173"
+    },
+    {
+        "name": "CARLTON RIVER",
+        "postcode": "7173"
+    },
+    {
+        "name": "CARRICK",
+        "postcode": "7291"
+    },
+    {
+        "name": "CASEY",
+        "postcode": "7151"
+    },
+    {
+        "name": "CASTLE FORBES BAY",
+        "postcode": "7116"
+    },
+    {
+        "name": "CASTRA",
+        "postcode": "7315"
+    },
+    {
+        "name": "CAVESIDE",
+        "postcode": "7304"
+    },
+    {
+        "name": "CENTRAL PLATEAU",
+        "postcode": "7304"
+    },
+    {
+        "name": "CETHANA",
+        "postcode": "7306"
+    },
+    {
+        "name": "CHAIN OF LAGOONS",
+        "postcode": "7215"
+    },
+    {
+        "name": "CHARLOTTE COVE",
+        "postcode": "7112"
+    },
+    {
+        "name": "CHASM CREEK",
+        "postcode": "7321"
+    },
+    {
+        "name": "CHIGWELL",
+        "postcode": "7011"
+    },
+    {
+        "name": "CHRISTMAS HILLS",
+        "postcode": "7330"
+    },
+    {
+        "name": "CHUDLEIGH",
+        "postcode": "7304"
+    },
+    {
+        "name": "CLAREMONT",
+        "postcode": "7011"
+    },
+    {
+        "name": "CLARENCE POINT",
+        "postcode": "7270"
+    },
+    {
+        "name": "CLARENDON VALE",
+        "postcode": "7019"
+    },
+    {
+        "name": "CLAUDE ROAD",
+        "postcode": "7306"
+    },
+    {
+        "name": "CLEVELAND",
+        "postcode": "7211"
+    },
+    {
+        "name": "CLIFTON BEACH",
+        "postcode": "7020"
+    },
+    {
+        "name": "CLUAN",
+        "postcode": "7303"
+    },
+    {
+        "name": "COLEBROOK",
+        "postcode": "7027"
+    },
+    {
+        "name": "COLES BAY",
+        "postcode": "7215"
+    },
+    {
+        "name": "COLLINSVALE",
+        "postcode": "7012"
+    },
+    {
+        "name": "CONARA",
+        "postcode": "7211"
+    },
+    {
+        "name": "CONINGHAM",
+        "postcode": "7054"
+    },
+    {
+        "name": "CONNELLYS MARSH",
+        "postcode": "7173"
+    },
+    {
+        "name": "COOEE",
+        "postcode": "7320"
+    },
+    {
+        "name": "COPPING",
+        "postcode": "7174"
+    },
+    {
+        "name": "CORINNA",
+        "postcode": "7321"
+    },
+    {
+        "name": "CORNWALL",
+        "postcode": "7215"
+    },
+    {
+        "name": "COUTA ROCKS",
+        "postcode": "7330"
+    },
+    {
+        "name": "COWRIE POINT",
+        "postcode": "7321"
+    },
+    {
+        "name": "CRABTREE",
+        "postcode": "7109"
+    },
+    {
+        "name": "CRADLE MOUNTAIN",
+        "postcode": "7306"
+    },
+    {
+        "name": "CRADOC",
+        "postcode": "7109"
+    },
+    {
+        "name": "CRAMPS BAY",
+        "postcode": "7030"
+    },
+    {
+        "name": "CRANBROOK",
+        "postcode": "7190"
+    },
+    {
+        "name": "CRAYFISH CREEK",
+        "postcode": "7321"
+    },
+    {
+        "name": "CREMORNE",
+        "postcode": "7024"
+    },
+    {
+        "name": "CRESSY",
+        "postcode": "7302"
+    },
+    {
+        "name": "CUCKOO",
+        "postcode": "7260"
+    },
+    {
+        "name": "CUPRONA",
+        "postcode": "7316"
+    },
+    {
+        "name": "CURRIE",
+        "postcode": "7256"
+    },
+    {
+        "name": "CYGNET",
+        "postcode": "7112"
+    },
+    {
+        "name": "DAIRY PLAINS",
+        "postcode": "7304"
+    },
+    {
+        "name": "DAVIS",
+        "postcode": "7151"
+    },
+    {
+        "name": "DEDDINGTON",
+        "postcode": "7212"
+    },
+    {
+        "name": "DEE",
+        "postcode": "7140"
+    },
+    {
+        "name": "DEEP BAY",
+        "postcode": "7112"
+    },
+    {
+        "name": "DELORAINE",
+        "postcode": "7304"
+    },
+    {
+        "name": "DENNES POINT",
+        "postcode": "7150"
+    },
+    {
+        "name": "DERBY",
+        "postcode": "7264"
+    },
+    {
+        "name": "DERWENT BRIDGE",
+        "postcode": "7140"
+    },
+    {
+        "name": "DERWENT PARK",
+        "postcode": "7009"
+    },
+    {
+        "name": "DETENTION",
+        "postcode": "7321"
+    },
+    {
+        "name": "DEVIOT",
+        "postcode": "7275"
+    },
+    {
+        "name": "DEVON HILLS",
+        "postcode": "7300"
+    },
+    {
+        "name": "DEVONPORT",
+        "postcode": "7310"
+    },
+    {
+        "name": "DILSTON",
+        "postcode": "7252"
+    },
+    {
+        "name": "DOCTORS POINT",
+        "postcode": "7304"
+    },
+    {
+        "name": "DOCTORS ROCKS",
+        "postcode": "7325"
+    },
+    {
+        "name": "DODGES FERRY",
+        "postcode": "7173"
+    },
+    {
+        "name": "DOLPHIN SANDS",
+        "postcode": "7190"
+    },
+    {
+        "name": "DON",
+        "postcode": "7310"
+    },
+    {
+        "name": "DOUGLAS RIVER",
+        "postcode": "7215"
+    },
+    {
+        "name": "DOVER",
+        "postcode": "7117"
+    },
+    {
+        "name": "DOWNLANDS",
+        "postcode": "7320"
+    },
+    {
+        "name": "DOWSING POINT",
+        "postcode": "7010"
+    },
+    {
+        "name": "DROMEDARY",
+        "postcode": "7030"
+    },
+    {
+        "name": "DULCOT",
+        "postcode": "7025"
+    },
+    {
+        "name": "DUNALLEY",
+        "postcode": "7177"
+    },
+    {
+        "name": "DUNORLAN",
+        "postcode": "7304"
+    },
+    {
+        "name": "DYNNYRNE",
+        "postcode": "7005"
+    },
+    {
+        "name": "DYSART",
+        "postcode": "7030"
+    },
+    {
+        "name": "EAGLEHAWK NECK",
+        "postcode": "7179"
+    },
+    {
+        "name": "EAST CAM",
+        "postcode": "7321"
+    },
+    {
+        "name": "EAST DEVONPORT",
+        "postcode": "7310"
+    },
+    {
+        "name": "EAST LAUNCESTON",
+        "postcode": "7250"
+    },
+    {
+        "name": "EAST RIDGLEY",
+        "postcode": "7321"
+    },
+    {
+        "name": "EDDYSTONE",
+        "postcode": "7264"
+    },
+    {
+        "name": "EDDYSTONE POINT",
+        "postcode": "7264"
+    },
+    {
+        "name": "EDGCUMBE BEACH",
+        "postcode": "7321"
+    },
+    {
+        "name": "EDITH CREEK",
+        "postcode": "7330"
+    },
+    {
+        "name": "EGG LAGOON",
+        "postcode": "7256"
+    },
+    {
+        "name": "EGGS AND BACON BAY",
+        "postcode": "7112"
+    },
+    {
+        "name": "ELDERSLIE",
+        "postcode": "7030"
+    },
+    {
+        "name": "ELECTRONA",
+        "postcode": "7054"
+    },
+    {
+        "name": "ELIZABETH TOWN",
+        "postcode": "7304"
+    },
+    {
+        "name": "ELLENDALE",
+        "postcode": "7140"
+    },
+    {
+        "name": "ELLIOTT",
+        "postcode": "7325"
+    },
+    {
+        "name": "EMITA",
+        "postcode": "7255"
+    },
+    {
+        "name": "EMU HEIGHTS",
+        "postcode": "7320"
+    },
+    {
+        "name": "EPPING FOREST",
+        "postcode": "7211"
+    },
+    {
+        "name": "ERRIBA",
+        "postcode": "7310"
+    },
+    {
+        "name": "EUGENANA",
+        "postcode": "7310"
+    },
+    {
+        "name": "EVANDALE",
+        "postcode": "7212"
+    },
+    {
+        "name": "EXETER",
+        "postcode": "7275"
+    },
+    {
+        "name": "EXTON",
+        "postcode": "7303"
+    },
+    {
+        "name": "FALMOUTH",
+        "postcode": "7215"
+    },
+    {
+        "name": "FENTONBURY",
+        "postcode": "7140"
+    },
+    {
+        "name": "FERN TREE",
+        "postcode": "7054"
+    },
+    {
+        "name": "FINGAL",
+        "postcode": "7214"
+    },
+    {
+        "name": "FITZGERALD",
+        "postcode": "7140"
+    },
+    {
+        "name": "FLINTSTONE",
+        "postcode": "7030"
+    },
+    {
+        "name": "FLORENTINE",
+        "postcode": "7140"
+    },
+    {
+        "name": "FLOWERDALE",
+        "postcode": "7325"
+    },
+    {
+        "name": "FLOWERPOT",
+        "postcode": "7163"
+    },
+    {
+        "name": "FLOWERY GULLY",
+        "postcode": "7270"
+    },
+    {
+        "name": "FORCETT",
+        "postcode": "7173"
+    },
+    {
+        "name": "FOREST",
+        "postcode": "7330"
+    },
+    {
+        "name": "FORESTER",
+        "postcode": "7260"
+    },
+    {
+        "name": "FORTESCUE",
+        "postcode": "7182"
+    },
+    {
+        "name": "FORTH",
+        "postcode": "7310"
+    },
+    {
+        "name": "FORTHSIDE",
+        "postcode": "7310"
+    },
+    {
+        "name": "FOUR MILE CREEK",
+        "postcode": "7215"
+    },
+    {
+        "name": "FRANKFORD",
+        "postcode": "7275"
+    },
+    {
+        "name": "FRANKLIN",
+        "postcode": "7113"
+    },
+    {
+        "name": "FREYCINET",
+        "postcode": "7215"
+    },
+    {
+        "name": "FRIENDLY BEACHES",
+        "postcode": "7215"
+    },
+    {
+        "name": "GAGEBROOK",
+        "postcode": "7030"
+    },
+    {
+        "name": "GARDEN ISLAND CREEK",
+        "postcode": "7112"
+    },
+    {
+        "name": "GARDNERS BAY",
+        "postcode": "7112"
+    },
+    {
+        "name": "GAWLER",
+        "postcode": "7315"
+    },
+    {
+        "name": "GEEVESTON",
+        "postcode": "7116"
+    },
+    {
+        "name": "GEILSTON BAY",
+        "postcode": "7015"
+    },
+    {
+        "name": "GEORGE TOWN",
+        "postcode": "7253"
+    },
+    {
+        "name": "GLADSTONE",
+        "postcode": "7264"
+    },
+    {
+        "name": "GLAZIERS BAY",
+        "postcode": "7109"
+    },
+    {
+        "name": "GLEBE",
+        "postcode": "7000"
+    },
+    {
+        "name": "GLEN HUON",
+        "postcode": "7109"
+    },
+    {
+        "name": "GLENDEVIE",
+        "postcode": "7109"
+    },
+    {
+        "name": "GLENFERN",
+        "postcode": "7140"
+    },
+    {
+        "name": "GLENGARRY",
+        "postcode": "7275"
+    },
+    {
+        "name": "GLENLUSK",
+        "postcode": "7012"
+    },
+    {
+        "name": "GLENORA",
+        "postcode": "7140"
+    },
+    {
+        "name": "GLENORCHY",
+        "postcode": "7010"
+    },
+    {
+        "name": "GOLCONDA",
+        "postcode": "7254"
+    },
+    {
+        "name": "GOLDEN VALLEY",
+        "postcode": "7304"
+    },
+    {
+        "name": "GOODWOOD",
+        "postcode": "7010"
+    },
+    {
+        "name": "GORDON",
+        "postcode": "7150"
+    },
+    {
+        "name": "GORMANSTON",
+        "postcode": "7466"
+    },
+    {
+        "name": "GOSHEN",
+        "postcode": "7216"
+    },
+    {
+        "name": "GOULDS COUNTRY",
+        "postcode": "7216"
+    },
+    {
+        "name": "GOWRIE PARK",
+        "postcode": "7306"
+    },
+    {
+        "name": "GRANTON",
+        "postcode": "7030"
+    },
+    {
+        "name": "GRANVILLE HARBOUR",
+        "postcode": "7469"
+    },
+    {
+        "name": "GRASSTREE HILL",
+        "postcode": "7017"
+    },
+    {
+        "name": "GRASSY",
+        "postcode": "7256"
+    },
+    {
+        "name": "GRAVELLY BEACH",
+        "postcode": "7276"
+    },
+    {
+        "name": "GRAY",
+        "postcode": "7215"
+    },
+    {
+        "name": "GREAT BAY",
+        "postcode": "7150"
+    },
+    {
+        "name": "GREENS BEACH",
+        "postcode": "7270"
+    },
+    {
+        "name": "GRETNA",
+        "postcode": "7140"
+    },
+    {
+        "name": "GRINDELWALD",
+        "postcode": "7277"
+    },
+    {
+        "name": "GROVE",
+        "postcode": "7109"
+    },
+    {
+        "name": "GUILDFORD",
+        "postcode": "7321"
+    },
+    {
+        "name": "GUNNS PLAINS",
+        "postcode": "7315"
+    },
+    {
+        "name": "HADSPEN",
+        "postcode": "7290"
+    },
+    {
+        "name": "HAGLEY",
+        "postcode": "7292"
+    },
+    {
+        "name": "HAMILTON",
+        "postcode": "7140"
+    },
+    {
+        "name": "HAMPSHIRE",
+        "postcode": "7321"
+    },
+    {
+        "name": "HARFORD",
+        "postcode": "7307"
+    },
+    {
+        "name": "HASTINGS",
+        "postcode": "7109"
+    },
+    {
+        "name": "HAVENVIEW",
+        "postcode": "7320"
+    },
+    {
+        "name": "HAWLEY BEACH",
+        "postcode": "7307"
+    },
+    {
+        "name": "HAYES",
+        "postcode": "7140"
+    },
+    {
+        "name": "HELLYER",
+        "postcode": "7321"
+    },
+    {
+        "name": "HENRIETTA",
+        "postcode": "7325"
+    },
+    {
+        "name": "HERDSMANS COVE",
+        "postcode": "7030"
+    },
+    {
+        "name": "HERMITAGE",
+        "postcode": "7030"
+    },
+    {
+        "name": "HERRICK",
+        "postcode": "7264"
+    },
+    {
+        "name": "HEYBRIDGE",
+        "postcode": "7316"
+    },
+    {
+        "name": "HIGHCLERE",
+        "postcode": "7321"
+    },
+    {
+        "name": "HIGHCROFT",
+        "postcode": "7183"
+    },
+    {
+        "name": "HILLCREST",
+        "postcode": "7320"
+    },
+    {
+        "name": "HILLWOOD",
+        "postcode": "7252"
+    },
+    {
+        "name": "HOBART",
+        "postcode": "7000"
+    },
+    {
+        "name": "HOLLOW TREE",
+        "postcode": "7140"
+    },
+    {
+        "name": "HOLWELL",
+        "postcode": "7275"
+    },
+    {
+        "name": "HONEYWOOD",
+        "postcode": "7017"
+    },
+    {
+        "name": "HOWDEN",
+        "postcode": "7054"
+    },
+    {
+        "name": "HOWRAH",
+        "postcode": "7018"
+    },
+    {
+        "name": "HOWTH",
+        "postcode": "7316"
+    },
+    {
+        "name": "HUNTINGFIELD",
+        "postcode": "7055"
+    },
+    {
+        "name": "HUONVILLE",
+        "postcode": "7109"
+    },
+    {
+        "name": "IDA BAY",
+        "postcode": "7109"
+    },
+    {
+        "name": "INTERLAKEN",
+        "postcode": "7030"
+    },
+    {
+        "name": "INVERMAY",
+        "postcode": "7248"
+    },
+    {
+        "name": "IRISHTOWN",
+        "postcode": "7330"
+    },
+    {
+        "name": "JACKEYS MARSH",
+        "postcode": "7304"
+    },
+    {
+        "name": "JERICHO",
+        "postcode": "7030"
+    },
+    {
+        "name": "JETSONVILLE",
+        "postcode": "7260"
+    },
+    {
+        "name": "JUDBURY",
+        "postcode": "7109"
+    },
+    {
+        "name": "KAMONA",
+        "postcode": "7260"
+    },
+    {
+        "name": "KAOOTA",
+        "postcode": "7150"
+    },
+    {
+        "name": "KARANJA",
+        "postcode": "7140"
+    },
+    {
+        "name": "KAROOLA",
+        "postcode": "7267"
+    },
+    {
+        "name": "KAYENA",
+        "postcode": "7270"
+    },
+    {
+        "name": "KELLEVIE",
+        "postcode": "7176"
+    },
+    {
+        "name": "KELSO",
+        "postcode": "7270"
+    },
+    {
+        "name": "KEMPTON",
+        "postcode": "7030"
+    },
+    {
+        "name": "KETTERING",
+        "postcode": "7155"
+    },
+    {
+        "name": "KILLIECRANKIE",
+        "postcode": "7255"
+    },
+    {
+        "name": "KILLORA",
+        "postcode": "7150"
+    },
+    {
+        "name": "KIMBERLEY",
+        "postcode": "7304"
+    },
+    {
+        "name": "KINDRED",
+        "postcode": "7310"
+    },
+    {
+        "name": "KINGS MEADOWS",
+        "postcode": "7249"
+    },
+    {
+        "name": "KINGSTON",
+        "postcode": "7050"
+    },
+    {
+        "name": "KINGSTON BEACH",
+        "postcode": "7050"
+    },
+    {
+        "name": "KOONYA",
+        "postcode": "7187"
+    },
+    {
+        "name": "LACHLAN",
+        "postcode": "7140"
+    },
+    {
+        "name": "LACKRANA",
+        "postcode": "7255"
+    },
+    {
+        "name": "LADY BARRON",
+        "postcode": "7255"
+    },
+    {
+        "name": "LAKE LEAKE",
+        "postcode": "7210"
+    },
+    {
+        "name": "LAKE MARGARET",
+        "postcode": "7467"
+    },
+    {
+        "name": "LAKE SORELL",
+        "postcode": "7030"
+    },
+    {
+        "name": "LAKE ST CLAIR",
+        "postcode": "7140"
+    },
+    {
+        "name": "LALLA",
+        "postcode": "7267"
+    },
+    {
+        "name": "LANENA",
+        "postcode": "7275"
+    },
+    {
+        "name": "LAPOINYA",
+        "postcode": "7325"
+    },
+    {
+        "name": "LATROBE",
+        "postcode": "7307"
+    },
+    {
+        "name": "LAUDERDALE",
+        "postcode": "7021"
+    },
+    {
+        "name": "LAUNCESTON",
+        "postcode": "7250"
+    },
+    {
+        "name": "LAWITTA",
+        "postcode": "7140"
+    },
+    {
+        "name": "LEBRINA",
+        "postcode": "7254"
+    },
+    {
+        "name": "LEEKA",
+        "postcode": "7255"
+    },
+    {
+        "name": "LEFROY",
+        "postcode": "7252"
+    },
+    {
+        "name": "LEGANA",
+        "postcode": "7277"
+    },
+    {
+        "name": "LEGERWOOD",
+        "postcode": "7263"
+    },
+    {
+        "name": "LEITH",
+        "postcode": "7315"
+    },
+    {
+        "name": "LEMONT",
+        "postcode": "7120"
+    },
+    {
+        "name": "LENAH VALLEY",
+        "postcode": "7008"
+    },
+    {
+        "name": "LESLIE VALE",
+        "postcode": "7054"
+    },
+    {
+        "name": "LEVENDALE",
+        "postcode": "7120"
+    },
+    {
+        "name": "LEWISHAM",
+        "postcode": "7173"
+    },
+    {
+        "name": "LIAWENEE",
+        "postcode": "7030"
+    },
+    {
+        "name": "LIENA",
+        "postcode": "7304"
+    },
+    {
+        "name": "LIETINNA",
+        "postcode": "7260"
+    },
+    {
+        "name": "LIFFEY",
+        "postcode": "7301"
+    },
+    {
+        "name": "LILEAH",
+        "postcode": "7330"
+    },
+    {
+        "name": "LILLICO",
+        "postcode": "7310"
+    },
+    {
+        "name": "LILYDALE",
+        "postcode": "7268"
+    },
+    {
+        "name": "LINDISFARNE",
+        "postcode": "7015"
+    },
+    {
+        "name": "LISLE",
+        "postcode": "7260"
+    },
+    {
+        "name": "LITTLE PINE LAGOON",
+        "postcode": "7140"
+    },
+    {
+        "name": "LITTLE SWANPORT",
+        "postcode": "7190"
+    },
+    {
+        "name": "LOCCOTA",
+        "postcode": "7255"
+    },
+    {
+        "name": "LOIRA",
+        "postcode": "7275"
+    },
+    {
+        "name": "LONDON LAKES",
+        "postcode": "7140"
+    },
+    {
+        "name": "LONG REACH",
+        "postcode": "7253"
+    },
+    {
+        "name": "LONGFORD",
+        "postcode": "7301"
+    },
+    {
+        "name": "LONGLEY",
+        "postcode": "7150"
+    },
+    {
+        "name": "LONNAVALE",
+        "postcode": "7109"
+    },
+    {
+        "name": "LOONGANA",
+        "postcode": "7315"
+    },
+    {
+        "name": "LOORANA",
+        "postcode": "7256"
+    },
+    {
+        "name": "LORINNA",
+        "postcode": "7306"
+    },
+    {
+        "name": "LOTTAH",
+        "postcode": "7216"
+    },
+    {
+        "name": "LOW HEAD",
+        "postcode": "7253"
+    },
+    {
+        "name": "LOWER BARRINGTON",
+        "postcode": "7306"
+    },
+    {
+        "name": "LOWER BEULAH",
+        "postcode": "7306"
+    },
+    {
+        "name": "LOWER LONGLEY",
+        "postcode": "7109"
+    },
+    {
+        "name": "LOWER MARSHES",
+        "postcode": "7030"
+    },
+    {
+        "name": "LOWER SANDY BAY",
+        "postcode": "7005"
+    },
+    {
+        "name": "LOWER SNUG",
+        "postcode": "7054"
+    },
+    {
+        "name": "LOWER TURNERS MARSH",
+        "postcode": "7267"
+    },
+    {
+        "name": "LOWER WATTLE GROVE",
+        "postcode": "7109"
+    },
+    {
+        "name": "LOWER WILMOT",
+        "postcode": "7310"
+    },
+    {
+        "name": "LOYETEA",
+        "postcode": "7316"
+    },
+    {
+        "name": "LUCASTON",
+        "postcode": "7109"
+    },
+    {
+        "name": "LUGHRATA",
+        "postcode": "7255"
+    },
+    {
+        "name": "LUINA",
+        "postcode": "7321"
+    },
+    {
+        "name": "LULWORTH",
+        "postcode": "7252"
+    },
+    {
+        "name": "LUNAWANNA",
+        "postcode": "7150"
+    },
+    {
+        "name": "LUNE RIVER",
+        "postcode": "7109"
+    },
+    {
+        "name": "LUTANA",
+        "postcode": "7009"
+    },
+    {
+        "name": "LYMINGTON",
+        "postcode": "7109"
+    },
+    {
+        "name": "LYMWOOD",
+        "postcode": "7256"
+    },
+    {
+        "name": "MACQUARIE",
+        "postcode": "7151"
+    },
+    {
+        "name": "MACQUARIE HEADS",
+        "postcode": "7468"
+    },
+    {
+        "name": "MACQUARIE ISLAND",
+        "postcode": "7151"
+    },
+    {
+        "name": "MACQUARIE PLAINS",
+        "postcode": "7140"
+    },
+    {
+        "name": "MAGRA",
+        "postcode": "7140"
+    },
+    {
+        "name": "MALBINA",
+        "postcode": "7140"
+    },
+    {
+        "name": "MANGALORE",
+        "postcode": "7030"
+    },
+    {
+        "name": "MANGANA",
+        "postcode": "7214"
+    },
+    {
+        "name": "MARGATE",
+        "postcode": "7054"
+    },
+    {
+        "name": "MARION BAY",
+        "postcode": "7175"
+    },
+    {
+        "name": "MARRAWAH",
+        "postcode": "7330"
+    },
+    {
+        "name": "MATHINNA",
+        "postcode": "7214"
+    },
+    {
+        "name": "MAWBANNA",
+        "postcode": "7321"
+    },
+    {
+        "name": "MAWSON",
+        "postcode": "7151"
+    },
+    {
+        "name": "MAYBERRY",
+        "postcode": "7304"
+    },
+    {
+        "name": "MAYDENA",
+        "postcode": "7140"
+    },
+    {
+        "name": "MAYFIELD",
+        "postcode": "7248"
+    },
+    {
+        "name": "MEADOWBANK",
+        "postcode": "7140"
+    },
+    {
+        "name": "MEANDER",
+        "postcode": "7304"
+    },
+    {
+        "name": "MELLA",
+        "postcode": "7330"
+    },
+    {
+        "name": "MELROSE",
+        "postcode": "7310"
+    },
+    {
+        "name": "MELTON MOWBRAY",
+        "postcode": "7030"
+    },
+    {
+        "name": "MEMANA",
+        "postcode": "7255"
+    },
+    {
+        "name": "MENGHA",
+        "postcode": "7330"
+    },
+    {
+        "name": "MERSEY FOREST",
+        "postcode": "7304"
+    },
+    {
+        "name": "MERSEYLEA",
+        "postcode": "7305"
+    },
+    {
+        "name": "MEUNNA",
+        "postcode": "7325"
+    },
+    {
+        "name": "MIANDETTA",
+        "postcode": "7310"
+    },
+    {
+        "name": "MIDDLESEX",
+        "postcode": "7306"
+    },
+    {
+        "name": "MIDDLETON",
+        "postcode": "7163"
+    },
+    {
+        "name": "MIDWAY POINT",
+        "postcode": "7171"
+    },
+    {
+        "name": "MIENA",
+        "postcode": "7030"
+    },
+    {
+        "name": "MILABENA",
+        "postcode": "7325"
+    },
+    {
+        "name": "MILLERS BLUFF",
+        "postcode": "7030"
+    },
+    {
+        "name": "MOINA",
+        "postcode": "7310"
+    },
+    {
+        "name": "MOLE CREEK",
+        "postcode": "7304"
+    },
+    {
+        "name": "MOLESWORTH",
+        "postcode": "7140"
+    },
+    {
+        "name": "MOLTEMA",
+        "postcode": "7304"
+    },
+    {
+        "name": "MONTAGU",
+        "postcode": "7330"
+    },
+    {
+        "name": "MONTAGU BAY",
+        "postcode": "7018"
+    },
+    {
+        "name": "MONTANA",
+        "postcode": "7304"
+    },
+    {
+        "name": "MONTELLO",
+        "postcode": "7320"
+    },
+    {
+        "name": "MONTROSE",
+        "postcode": "7010"
+    },
+    {
+        "name": "MONTUMANA",
+        "postcode": "7321"
+    },
+    {
+        "name": "MOOGARA",
+        "postcode": "7140"
+    },
+    {
+        "name": "MOONAH",
+        "postcode": "7009"
+    },
+    {
+        "name": "MOOREVILLE",
+        "postcode": "7321"
+    },
+    {
+        "name": "MOORINA",
+        "postcode": "7264"
+    },
+    {
+        "name": "MOORLEAH",
+        "postcode": "7325"
+    },
+    {
+        "name": "MORASS BAY",
+        "postcode": "7030"
+    },
+    {
+        "name": "MORIARTY",
+        "postcode": "7307"
+    },
+    {
+        "name": "MORNINGTON",
+        "postcode": "7018"
+    },
+    {
+        "name": "MOUNT DIRECTION",
+        "postcode": "7252"
+    },
+    {
+        "name": "MOUNT FIELD",
+        "postcode": "7140"
+    },
+    {
+        "name": "MOUNT HICKS",
+        "postcode": "7325"
+    },
+    {
+        "name": "MOUNT LLOYD",
+        "postcode": "7140"
+    },
+    {
+        "name": "MOUNT NELSON",
+        "postcode": "7007"
+    },
+    {
+        "name": "MOUNT RUMNEY",
+        "postcode": "7170"
+    },
+    {
+        "name": "MOUNT SEYMOUR",
+        "postcode": "7120"
+    },
+    {
+        "name": "MOUNT STUART",
+        "postcode": "7000"
+    },
+    {
+        "name": "MOUNTAIN RIVER",
+        "postcode": "7109"
+    },
+    {
+        "name": "MOWBRAY",
+        "postcode": "7248"
+    },
+    {
+        "name": "MURDUNNA",
+        "postcode": "7178"
+    },
+    {
+        "name": "MUSSELROE BAY",
+        "postcode": "7264"
+    },
+    {
+        "name": "MYALLA",
+        "postcode": "7325"
+    },
+    {
+        "name": "MYRTLE BANK",
+        "postcode": "7259"
+    },
+    {
+        "name": "NABAGEENA",
+        "postcode": "7330"
+    },
+    {
+        "name": "NABOWLA",
+        "postcode": "7260"
+    },
+    {
+        "name": "NARACOOPA",
+        "postcode": "7256"
+    },
+    {
+        "name": "NATIONAL PARK",
+        "postcode": "7140"
+    },
+    {
+        "name": "NATONE",
+        "postcode": "7321"
+    },
+    {
+        "name": "NEEDLES",
+        "postcode": "7304"
+    },
+    {
+        "name": "NEIKA",
+        "postcode": "7054"
+    },
+    {
+        "name": "NELSON BAY",
+        "postcode": "7330"
+    },
+    {
+        "name": "NEW NORFOLK",
+        "postcode": "7140"
+    },
+    {
+        "name": "NEW TOWN",
+        "postcode": "7008"
+    },
+    {
+        "name": "NEWNHAM",
+        "postcode": "7248"
+    },
+    {
+        "name": "NEWSTEAD",
+        "postcode": "7250"
+    },
+    {
+        "name": "NICHOLLS RIVULET",
+        "postcode": "7112"
+    },
+    {
+        "name": "NIETTA",
+        "postcode": "7315"
+    },
+    {
+        "name": "NILE",
+        "postcode": "7212"
+    },
+    {
+        "name": "NOOK",
+        "postcode": "7306"
+    },
+    {
+        "name": "NORTH BRUNY",
+        "postcode": "7150"
+    },
+    {
+        "name": "NORTH HOBART",
+        "postcode": "7000"
+    },
+    {
+        "name": "NORTH LILYDALE",
+        "postcode": "7268"
+    },
+    {
+        "name": "NORTH MOTTON",
+        "postcode": "7315"
+    },
+    {
+        "name": "NORTH SCOTTSDALE",
+        "postcode": "7260"
+    },
+    {
+        "name": "NORTHDOWN",
+        "postcode": "7307"
+    },
+    {
+        "name": "NORWOOD",
+        "postcode": "7250"
+    },
+    {
+        "name": "NORWOOD AVENUE PO",
+        "postcode": "7250"
+    },
+    {
+        "name": "NOTLEY HILLS",
+        "postcode": "7275"
+    },
+    {
+        "name": "NOWHERE ELSE",
+        "postcode": "7306"
+    },
+    {
+        "name": "NUBEENA",
+        "postcode": "7184"
+    },
+    {
+        "name": "NUGARA",
+        "postcode": "7256"
+    },
+    {
+        "name": "NUGENT",
+        "postcode": "7172"
+    },
+    {
+        "name": "NUNAMARA",
+        "postcode": "7259"
+    },
+    {
+        "name": "OAKDOWNS",
+        "postcode": "7019"
+    },
+    {
+        "name": "OAKS",
+        "postcode": "7303"
+    },
+    {
+        "name": "OATLANDS",
+        "postcode": "7120"
+    },
+    {
+        "name": "OCEAN VISTA",
+        "postcode": "7320"
+    },
+    {
+        "name": "OLD BEACH",
+        "postcode": "7017"
+    },
+    {
+        "name": "OLDINA",
+        "postcode": "7325"
+    },
+    {
+        "name": "OONAH",
+        "postcode": "7325"
+    },
+    {
+        "name": "OPOSSUM BAY",
+        "postcode": "7023"
+    },
+    {
+        "name": "ORFORD",
+        "postcode": "7190"
+    },
+    {
+        "name": "ORIELTON",
+        "postcode": "7172"
+    },
+    {
+        "name": "OSMASTON",
+        "postcode": "7303"
+    },
+    {
+        "name": "OSTERLEY",
+        "postcode": "7140"
+    },
+    {
+        "name": "OTAGO",
+        "postcode": "7017"
+    },
+    {
+        "name": "OUSE",
+        "postcode": "7140"
+    },
+    {
+        "name": "OYSTER COVE",
+        "postcode": "7150"
+    },
+    {
+        "name": "PALANA",
+        "postcode": "7255"
+    },
+    {
+        "name": "PALOONA",
+        "postcode": "7310"
+    },
+    {
+        "name": "PARADISE",
+        "postcode": "7306"
+    },
+    {
+        "name": "PARATTAH",
+        "postcode": "7120"
+    },
+    {
+        "name": "PARK GROVE",
+        "postcode": "7320"
+    },
+    {
+        "name": "PARKHAM",
+        "postcode": "7304"
+    },
+    {
+        "name": "PARKLANDS",
+        "postcode": "7320"
+    },
+    {
+        "name": "PARRAWE",
+        "postcode": "7321"
+    },
+    {
+        "name": "PATERSONIA",
+        "postcode": "7259"
+    },
+    {
+        "name": "PAWLEENA",
+        "postcode": "7172"
+    },
+    {
+        "name": "PAWTELLA",
+        "postcode": "7120"
+    },
+    {
+        "name": "PEARSHAPE",
+        "postcode": "7256"
+    },
+    {
+        "name": "PEGARAH",
+        "postcode": "7256"
+    },
+    {
+        "name": "PELHAM",
+        "postcode": "7030"
+    },
+    {
+        "name": "PELVERATA",
+        "postcode": "7150"
+    },
+    {
+        "name": "PENGUIN",
+        "postcode": "7316"
+    },
+    {
+        "name": "PENNA",
+        "postcode": "7171"
+    },
+    {
+        "name": "PERTH",
+        "postcode": "7300"
+    },
+    {
+        "name": "PETCHEYS BAY",
+        "postcode": "7109"
+    },
+    {
+        "name": "PIONEER",
+        "postcode": "7264"
+    },
+    {
+        "name": "PIPERS BROOK",
+        "postcode": "7254"
+    },
+    {
+        "name": "PIPERS RIVER",
+        "postcode": "7252"
+    },
+    {
+        "name": "PLENTY",
+        "postcode": "7140"
+    },
+    {
+        "name": "POATINA",
+        "postcode": "7302"
+    },
+    {
+        "name": "POLICE POINT",
+        "postcode": "7116"
+    },
+    {
+        "name": "PONTVILLE",
+        "postcode": "7030"
+    },
+    {
+        "name": "PONTYPOOL",
+        "postcode": "7190"
+    },
+    {
+        "name": "PORT ARTHUR",
+        "postcode": "7182"
+    },
+    {
+        "name": "PORT HUON",
+        "postcode": "7116"
+    },
+    {
+        "name": "PORT LATTA",
+        "postcode": "7321"
+    },
+    {
+        "name": "PORT SORELL",
+        "postcode": "7307"
+    },
+    {
+        "name": "POWRANNA",
+        "postcode": "7300"
+    },
+    {
+        "name": "PREMAYDENA",
+        "postcode": "7185"
+    },
+    {
+        "name": "PREOLENNA",
+        "postcode": "7325"
+    },
+    {
+        "name": "PRESERVATION BAY",
+        "postcode": "7316"
+    },
+    {
+        "name": "PRESTON",
+        "postcode": "7315"
+    },
+    {
+        "name": "PRIMROSE SANDS",
+        "postcode": "7173"
+    },
+    {
+        "name": "PROMISED LAND",
+        "postcode": "7306"
+    },
+    {
+        "name": "PROSPECT",
+        "postcode": "7250"
+    },
+    {
+        "name": "PROSPECT VALE",
+        "postcode": "7250"
+    },
+    {
+        "name": "PUNCHBOWL",
+        "postcode": "7249"
+    },
+    {
+        "name": "PYENGANA",
+        "postcode": "7216"
+    },
+    {
+        "name": "QUAMBY BEND",
+        "postcode": "7292"
+    },
+    {
+        "name": "QUAMBY BROOK",
+        "postcode": "7304"
+    },
+    {
+        "name": "QUEENS DOMAIN",
+        "postcode": "7000"
+    },
+    {
+        "name": "QUEENSTOWN",
+        "postcode": "7467"
+    },
+    {
+        "name": "QUOIBA",
+        "postcode": "7310"
+    },
+    {
+        "name": "RAILTON",
+        "postcode": "7305"
+    },
+    {
+        "name": "RAMINEA",
+        "postcode": "7109"
+    },
+    {
+        "name": "RANDALLS BAY",
+        "postcode": "7112"
+    },
+    {
+        "name": "RANELAGH",
+        "postcode": "7109"
+    },
+    {
+        "name": "RANGA",
+        "postcode": "7255"
+    },
+    {
+        "name": "RAVENSWOOD",
+        "postcode": "7250"
+    },
+    {
+        "name": "RECHERCHE",
+        "postcode": "7109"
+    },
+    {
+        "name": "RED HILLS",
+        "postcode": "7304"
+    },
+    {
+        "name": "REDPA",
+        "postcode": "7330"
+    },
+    {
+        "name": "REEDY MARSH",
+        "postcode": "7304"
+    },
+    {
+        "name": "REEKARA",
+        "postcode": "7256"
+    },
+    {
+        "name": "RELBIA",
+        "postcode": "7258"
+    },
+    {
+        "name": "RENISON BELL",
+        "postcode": "7469"
+    },
+    {
+        "name": "RETREAT",
+        "postcode": "7254"
+    },
+    {
+        "name": "REYNOLDS NECK",
+        "postcode": "7304"
+    },
+    {
+        "name": "RHEBAN",
+        "postcode": "7190"
+    },
+    {
+        "name": "RHYNDASTON",
+        "postcode": "7120"
+    },
+    {
+        "name": "RIANA",
+        "postcode": "7316"
+    },
+    {
+        "name": "RICHMOND",
+        "postcode": "7025"
+    },
+    {
+        "name": "RIDGEWAY",
+        "postcode": "7054"
+    },
+    {
+        "name": "RIDGLEY",
+        "postcode": "7321"
+    },
+    {
+        "name": "RINGAROOMA",
+        "postcode": "7263"
+    },
+    {
+        "name": "RISDON",
+        "postcode": "7017"
+    },
+    {
+        "name": "RISDON VALE",
+        "postcode": "7016"
+    },
+    {
+        "name": "RIVERSIDE",
+        "postcode": "7250"
+    },
+    {
+        "name": "ROBIGANA",
+        "postcode": "7275"
+    },
+    {
+        "name": "ROCHERLEA",
+        "postcode": "7248"
+    },
+    {
+        "name": "ROCHES BEACH",
+        "postcode": "7170"
+    },
+    {
+        "name": "ROCKY CAPE",
+        "postcode": "7321"
+    },
+    {
+        "name": "ROCKY HILLS",
+        "postcode": "7190"
+    },
+    {
+        "name": "ROGER RIVER",
+        "postcode": "7330"
+    },
+    {
+        "name": "ROKEBY",
+        "postcode": "7019"
+    },
+    {
+        "name": "ROLAND",
+        "postcode": "7306"
+    },
+    {
+        "name": "ROMAINE",
+        "postcode": "7320"
+    },
+    {
+        "name": "ROSE BAY",
+        "postcode": "7015"
+    },
+    {
+        "name": "ROSEBERY",
+        "postcode": "7470"
+    },
+    {
+        "name": "ROSEGARLAND",
+        "postcode": "7140"
+    },
+    {
+        "name": "ROSETTA",
+        "postcode": "7010"
+    },
+    {
+        "name": "ROSEVALE",
+        "postcode": "7292"
+    },
+    {
+        "name": "ROSEVEARS",
+        "postcode": "7277"
+    },
+    {
+        "name": "ROSNY",
+        "postcode": "7018"
+    },
+    {
+        "name": "ROSNY PARK",
+        "postcode": "7018"
+    },
+    {
+        "name": "ROSS",
+        "postcode": "7209"
+    },
+    {
+        "name": "ROSSARDEN",
+        "postcode": "7213"
+    },
+    {
+        "name": "ROUND HILL",
+        "postcode": "7320"
+    },
+    {
+        "name": "ROWELLA",
+        "postcode": "7270"
+    },
+    {
+        "name": "ROYAL GEORGE",
+        "postcode": "7213"
+    },
+    {
+        "name": "RUNNYMEDE",
+        "postcode": "7190"
+    },
+    {
+        "name": "RUSHY LAGOON",
+        "postcode": "7264"
+    },
+    {
+        "name": "SALTWATER RIVER",
+        "postcode": "7186"
+    },
+    {
+        "name": "SANDFLY",
+        "postcode": "7150"
+    },
+    {
+        "name": "SANDFORD",
+        "postcode": "7020"
+    },
+    {
+        "name": "SANDY BAY",
+        "postcode": "7005"
+    },
+    {
+        "name": "SASSAFRAS",
+        "postcode": "7307"
+    },
+    {
+        "name": "SAVAGE RIVER",
+        "postcode": "7321"
+    },
+    {
+        "name": "SCAMANDER",
+        "postcode": "7215"
+    },
+    {
+        "name": "SCOPUS",
+        "postcode": "7330"
+    },
+    {
+        "name": "SCOTCHTOWN",
+        "postcode": "7330"
+    },
+    {
+        "name": "SCOTTSDALE",
+        "postcode": "7260"
+    },
+    {
+        "name": "SEA ELEPHANT",
+        "postcode": "7256"
+    },
+    {
+        "name": "SELBOURNE",
+        "postcode": "7292"
+    },
+    {
+        "name": "SEVEN MILE BEACH",
+        "postcode": "7170"
+    },
+    {
+        "name": "SEYMOUR",
+        "postcode": "7215"
+    },
+    {
+        "name": "SHANNON",
+        "postcode": "7030"
+    },
+    {
+        "name": "SHEARWATER",
+        "postcode": "7307"
+    },
+    {
+        "name": "SHEFFIELD",
+        "postcode": "7306"
+    },
+    {
+        "name": "SHOREWELL PARK",
+        "postcode": "7320"
+    },
+    {
+        "name": "SIDMOUTH",
+        "postcode": "7270"
+    },
+    {
+        "name": "SIMPSONS BAY",
+        "postcode": "7150"
+    },
+    {
+        "name": "SISTERS BEACH",
+        "postcode": "7321"
+    },
+    {
+        "name": "SISTERS CREEK",
+        "postcode": "7325"
+    },
+    {
+        "name": "SLOPING MAIN",
+        "postcode": "7186"
+    },
+    {
+        "name": "SMITHTON",
+        "postcode": "7330"
+    },
+    {
+        "name": "SNUG",
+        "postcode": "7054"
+    },
+    {
+        "name": "SOMERSET",
+        "postcode": "7322"
+    },
+    {
+        "name": "SORELL",
+        "postcode": "7172"
+    },
+    {
+        "name": "SORELL CREEK",
+        "postcode": "7140"
+    },
+    {
+        "name": "SOUTH ARM",
+        "postcode": "7022"
+    },
+    {
+        "name": "SOUTH BRUNY",
+        "postcode": "7150"
+    },
+    {
+        "name": "SOUTH BURNIE",
+        "postcode": "7320"
+    },
+    {
+        "name": "SOUTH FOREST",
+        "postcode": "7330"
+    },
+    {
+        "name": "SOUTH HOBART",
+        "postcode": "7004"
+    },
+    {
+        "name": "SOUTH LAUNCESTON",
+        "postcode": "7249"
+    },
+    {
+        "name": "SOUTH MOUNT CAMERON",
+        "postcode": "7264"
+    },
+    {
+        "name": "SOUTH NIETTA",
+        "postcode": "7315"
+    },
+    {
+        "name": "SOUTH PRESTON",
+        "postcode": "7315"
+    },
+    {
+        "name": "SOUTH RIANA",
+        "postcode": "7316"
+    },
+    {
+        "name": "SOUTH SPREYTON",
+        "postcode": "7310"
+    },
+    {
+        "name": "SOUTH SPRINGFIELD",
+        "postcode": "7260"
+    },
+    {
+        "name": "SOUTHPORT",
+        "postcode": "7109"
+    },
+    {
+        "name": "SOUTHPORT LAGOON",
+        "postcode": "7109"
+    },
+    {
+        "name": "SPALFORD",
+        "postcode": "7315"
+    },
+    {
+        "name": "SPRENT",
+        "postcode": "7315"
+    },
+    {
+        "name": "SPREYTON",
+        "postcode": "7310"
+    },
+    {
+        "name": "SPRING BEACH",
+        "postcode": "7190"
+    },
+    {
+        "name": "SPRINGFIELD",
+        "postcode": "7260"
+    },
+    {
+        "name": "SQUEAKING POINT",
+        "postcode": "7307"
+    },
+    {
+        "name": "ST HELENS",
+        "postcode": "7216"
+    },
+    {
+        "name": "ST LEONARDS",
+        "postcode": "7250"
+    },
+    {
+        "name": "ST MARYS",
+        "postcode": "7215"
+    },
+    {
+        "name": "STANLEY",
+        "postcode": "7331"
+    },
+    {
+        "name": "STAVERTON",
+        "postcode": "7306"
+    },
+    {
+        "name": "STEPPES",
+        "postcode": "7030"
+    },
+    {
+        "name": "STIEGLITZ",
+        "postcode": "7216"
+    },
+    {
+        "name": "STONEHENGE",
+        "postcode": "7120"
+    },
+    {
+        "name": "STONOR",
+        "postcode": "7119"
+    },
+    {
+        "name": "STONY HEAD",
+        "postcode": "7252"
+    },
+    {
+        "name": "STONY RISE",
+        "postcode": "7310"
+    },
+    {
+        "name": "STOODLEY",
+        "postcode": "7306"
+    },
+    {
+        "name": "STORMLEA",
+        "postcode": "7184"
+    },
+    {
+        "name": "STOWPORT",
+        "postcode": "7321"
+    },
+    {
+        "name": "STRAHAN",
+        "postcode": "7468"
+    },
+    {
+        "name": "STRATHBLANE",
+        "postcode": "7109"
+    },
+    {
+        "name": "STRATHGORDON",
+        "postcode": "7139"
+    },
+    {
+        "name": "STRICKLAND",
+        "postcode": "7140"
+    },
+    {
+        "name": "STRZELECKI",
+        "postcode": "7255"
+    },
+    {
+        "name": "STYX",
+        "postcode": "7140"
+    },
+    {
+        "name": "SULPHUR CREEK",
+        "postcode": "7316"
+    },
+    {
+        "name": "SUMMERHILL",
+        "postcode": "7250"
+    },
+    {
+        "name": "SUNNYSIDE",
+        "postcode": "7305"
+    },
+    {
+        "name": "SURGES BAY",
+        "postcode": "7116"
+    },
+    {
+        "name": "SURPRISE BAY",
+        "postcode": "7256"
+    },
+    {
+        "name": "SURVEYORS BAY",
+        "postcode": "7116"
+    },
+    {
+        "name": "SWAN BAY",
+        "postcode": "7252"
+    },
+    {
+        "name": "SWAN POINT",
+        "postcode": "7275"
+    },
+    {
+        "name": "SWANSEA",
+        "postcode": "7190"
+    },
+    {
+        "name": "SWANSTON",
+        "postcode": "7120"
+    },
+    {
+        "name": "TABLE CAPE",
+        "postcode": "7325"
+    },
+    {
+        "name": "TAKONE",
+        "postcode": "7325"
+    },
+    {
+        "name": "TALAWA",
+        "postcode": "7263"
+    },
+    {
+        "name": "TARANNA",
+        "postcode": "7180"
+    },
+    {
+        "name": "TARGA",
+        "postcode": "7259"
+    },
+    {
+        "name": "TARLETON",
+        "postcode": "7310"
+    },
+    {
+        "name": "TAROONA",
+        "postcode": "7053"
+    },
+    {
+        "name": "TARRALEAH",
+        "postcode": "7140"
+    },
+    {
+        "name": "TAYENE",
+        "postcode": "7259"
+    },
+    {
+        "name": "TEA TREE",
+        "postcode": "7017"
+    },
+    {
+        "name": "TELITA",
+        "postcode": "7264"
+    },
+    {
+        "name": "TEMMA",
+        "postcode": "7330"
+    },
+    {
+        "name": "TEWKESBURY",
+        "postcode": "7321"
+    },
+    {
+        "name": "THE GARDENS",
+        "postcode": "7216"
+    },
+    {
+        "name": "THIRLSTANE",
+        "postcode": "7307"
+    },
+    {
+        "name": "THREE HUMMOCK ISLAND",
+        "postcode": "7330"
+    },
+    {
+        "name": "TIBERIAS",
+        "postcode": "7120"
+    },
+    {
+        "name": "TINDERBOX",
+        "postcode": "7054"
+    },
+    {
+        "name": "TODS CORNER",
+        "postcode": "7030"
+    },
+    {
+        "name": "TOGARI",
+        "postcode": "7330"
+    },
+    {
+        "name": "TOIBERRY",
+        "postcode": "7301"
+    },
+    {
+        "name": "TOLMANS HILL",
+        "postcode": "7007"
+    },
+    {
+        "name": "TOMAHAWK",
+        "postcode": "7262"
+    },
+    {
+        "name": "TONGANAH",
+        "postcode": "7260"
+    },
+    {
+        "name": "TOOMS LAKE",
+        "postcode": "7209"
+    },
+    {
+        "name": "TRANMERE",
+        "postcode": "7018"
+    },
+    {
+        "name": "TRAVELLERS REST",
+        "postcode": "7250"
+    },
+    {
+        "name": "TRENAH",
+        "postcode": "7263"
+    },
+    {
+        "name": "TREVALLYN",
+        "postcode": "7250"
+    },
+    {
+        "name": "TRIABUNNA",
+        "postcode": "7190"
+    },
+    {
+        "name": "TRIAL HARBOUR",
+        "postcode": "7469"
+    },
+    {
+        "name": "TROWUTTA",
+        "postcode": "7330"
+    },
+    {
+        "name": "TUGRAH",
+        "postcode": "7310"
+    },
+    {
+        "name": "TULENDEENA",
+        "postcode": "7260"
+    },
+    {
+        "name": "TULLAH",
+        "postcode": "7321"
+    },
+    {
+        "name": "TUNBRIDGE",
+        "postcode": "7120"
+    },
+    {
+        "name": "TUNNACK",
+        "postcode": "7120"
+    },
+    {
+        "name": "TUNNEL",
+        "postcode": "7254"
+    },
+    {
+        "name": "TURNERS BEACH",
+        "postcode": "7315"
+    },
+    {
+        "name": "TURNERS MARSH",
+        "postcode": "7267"
+    },
+    {
+        "name": "TYENNA",
+        "postcode": "7140"
+    },
+    {
+        "name": "ULVERSTONE",
+        "postcode": "7315"
+    },
+    {
+        "name": "UNDERWOOD",
+        "postcode": "7268"
+    },
+    {
+        "name": "UNIVERSITY OF TASMANIA",
+        "postcode": "7005"
+    },
+    {
+        "name": "UPPER BLESSINGTON",
+        "postcode": "7212"
+    },
+    {
+        "name": "UPPER BURNIE",
+        "postcode": "7320"
+    },
+    {
+        "name": "UPPER CASTRA",
+        "postcode": "7315"
+    },
+    {
+        "name": "UPPER ESK",
+        "postcode": "7214"
+    },
+    {
+        "name": "UPPER NATONE",
+        "postcode": "7321"
+    },
+    {
+        "name": "UPPER SCAMANDER",
+        "postcode": "7215"
+    },
+    {
+        "name": "UPPER STOWPORT",
+        "postcode": "7321"
+    },
+    {
+        "name": "UPPER WOODSTOCK",
+        "postcode": "7150"
+    },
+    {
+        "name": "UXBRIDGE",
+        "postcode": "7140"
+    },
+    {
+        "name": "VERONA SANDS",
+        "postcode": "7112"
+    },
+    {
+        "name": "VICTORIA VALLEY",
+        "postcode": "7140"
+    },
+    {
+        "name": "WADDAMANA",
+        "postcode": "7030"
+    },
+    {
+        "name": "WARATAH",
+        "postcode": "7321"
+    },
+    {
+        "name": "WARRANE",
+        "postcode": "7018"
+    },
+    {
+        "name": "WARRENTINNA",
+        "postcode": "7261"
+    },
+    {
+        "name": "WATERHOUSE",
+        "postcode": "7262"
+    },
+    {
+        "name": "WATERLOO",
+        "postcode": "7109"
+    },
+    {
+        "name": "WATTLE GROVE",
+        "postcode": "7109"
+    },
+    {
+        "name": "WATTLE HILL",
+        "postcode": "7172"
+    },
+    {
+        "name": "WAVERLEY",
+        "postcode": "7250"
+    },
+    {
+        "name": "WAYATINAH",
+        "postcode": "7140"
+    },
+    {
+        "name": "WEEGENA",
+        "postcode": "7304"
+    },
+    {
+        "name": "WEETAH",
+        "postcode": "7304"
+    },
+    {
+        "name": "WELDBOROUGH",
+        "postcode": "7264"
+    },
+    {
+        "name": "WELLINGTON PARK",
+        "postcode": "7054"
+    },
+    {
+        "name": "WESLEY VALE",
+        "postcode": "7307"
+    },
+    {
+        "name": "WEST DEVONPORT",
+        "postcode": "7310"
+    },
+    {
+        "name": "WEST HOBART",
+        "postcode": "7000"
+    },
+    {
+        "name": "WEST KENTISH",
+        "postcode": "7306"
+    },
+    {
+        "name": "WEST LAUNCESTON",
+        "postcode": "7250"
+    },
+    {
+        "name": "WEST MONTAGU",
+        "postcode": "7330"
+    },
+    {
+        "name": "WEST MOONAH",
+        "postcode": "7009"
+    },
+    {
+        "name": "WEST MOOREVILLE",
+        "postcode": "7321"
+    },
+    {
+        "name": "WEST PINE",
+        "postcode": "7316"
+    },
+    {
+        "name": "WEST RIDGLEY",
+        "postcode": "7321"
+    },
+    {
+        "name": "WEST SCOTTSDALE",
+        "postcode": "7260"
+    },
+    {
+        "name": "WEST TAKONE",
+        "postcode": "7325"
+    },
+    {
+        "name": "WEST ULVERSTONE",
+        "postcode": "7315"
+    },
+    {
+        "name": "WESTBURY",
+        "postcode": "7303"
+    },
+    {
+        "name": "WESTERN CREEK",
+        "postcode": "7304"
+    },
+    {
+        "name": "WESTERN JUNCTION",
+        "postcode": "7212"
+    },
+    {
+        "name": "WESTERWAY",
+        "postcode": "7140"
+    },
+    {
+        "name": "WESTWOOD",
+        "postcode": "7292"
+    },
+    {
+        "name": "WEYMOUTH",
+        "postcode": "7252"
+    },
+    {
+        "name": "WHITE BEACH",
+        "postcode": "7184"
+    },
+    {
+        "name": "WHITE HILLS",
+        "postcode": "7258"
+    },
+    {
+        "name": "WHITEFOORD",
+        "postcode": "7120"
+    },
+    {
+        "name": "WHITEMARK",
+        "postcode": "7255"
+    },
+    {
+        "name": "WHITEMORE",
+        "postcode": "7303"
+    },
+    {
+        "name": "WICKHAM",
+        "postcode": "7256"
+    },
+    {
+        "name": "WILBURVILLE",
+        "postcode": "7030"
+    },
+    {
+        "name": "WILMOT",
+        "postcode": "7310"
+    },
+    {
+        "name": "WILTSHIRE",
+        "postcode": "7321"
+    },
+    {
+        "name": "WINDERMERE",
+        "postcode": "7252"
+    },
+    {
+        "name": "WINGAROO",
+        "postcode": "7255"
+    },
+    {
+        "name": "WINKLEIGH",
+        "postcode": "7275"
+    },
+    {
+        "name": "WINNALEAH",
+        "postcode": "7265"
+    },
+    {
+        "name": "WIVENHOE",
+        "postcode": "7320"
+    },
+    {
+        "name": "WOODBRIDGE",
+        "postcode": "7162"
+    },
+    {
+        "name": "WOODBURY",
+        "postcode": "7120"
+    },
+    {
+        "name": "WOODSDALE",
+        "postcode": "7120"
+    },
+    {
+        "name": "WOODSTOCK",
+        "postcode": "7109"
+    },
+    {
+        "name": "WOOLNORTH",
+        "postcode": "7330"
+    },
+    {
+        "name": "WYENA",
+        "postcode": "7254"
+    },
+    {
+        "name": "WYNYARD",
+        "postcode": "7325"
+    },
+    {
+        "name": "YAMBACOONA",
+        "postcode": "7256"
+    },
+    {
+        "name": "YARRA CREEK",
+        "postcode": "7256"
+    },
+    {
+        "name": "YOLLA",
+        "postcode": "7325"
+    },
+    {
+        "name": "YORK PLAINS",
+        "postcode": "7120"
+    },
+    {
+        "name": "YORK TOWN",
+        "postcode": "7270"
+    },
+    {
+        "name": "YOUNGTOWN",
+        "postcode": "7249"
+    },
+    {
+        "name": "ZEEHAN",
+        "postcode": "7469"
+    }
+]

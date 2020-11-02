@@ -1,0 +1,1438 @@
+[
+    {
+        "name": "ACACIA HILLS",
+        "postcode": "0822"
+    },
+    {
+        "name": "ADELAIDE RIVER",
+        "postcode": "0846"
+    },
+    {
+        "name": "AHERRENGE",
+        "postcode": "0872"
+    },
+    {
+        "name": "ALAWA",
+        "postcode": "0810"
+    },
+    {
+        "name": "ALI CURUNG",
+        "postcode": "0872"
+    },
+    {
+        "name": "ALICE SPRINGS",
+        "postcode": "0870"
+    },
+    {
+        "name": "ALPURRURULAM",
+        "postcode": "4825"
+    },
+    {
+        "name": "ALYANGULA",
+        "postcode": "0885"
+    },
+    {
+        "name": "AMOONGUNA",
+        "postcode": "0872"
+    },
+    {
+        "name": "AMPILATWATJA",
+        "postcode": "0872"
+    },
+    {
+        "name": "ANATYE",
+        "postcode": "0872"
+    },
+    {
+        "name": "ANGURUGU",
+        "postcode": "0822"
+    },
+    {
+        "name": "ANINDILYAKWA",
+        "postcode": "0822"
+    },
+    {
+        "name": "ANMATJERE",
+        "postcode": "0872"
+    },
+    {
+        "name": "ANNIE RIVER",
+        "postcode": "0822"
+    },
+    {
+        "name": "ANTEWENEGERRDE",
+        "postcode": "0872"
+    },
+    {
+        "name": "ANULA",
+        "postcode": "0812"
+    },
+    {
+        "name": "ARALUEN",
+        "postcode": "0870"
+    },
+    {
+        "name": "ARCHER",
+        "postcode": "0830"
+    },
+    {
+        "name": "AREYONGA",
+        "postcode": "0872"
+    },
+    {
+        "name": "ARNOLD",
+        "postcode": "0852"
+    },
+    {
+        "name": "ARUMBERA",
+        "postcode": "0870"
+    },
+    {
+        "name": "ATITJERE",
+        "postcode": "0872"
+    },
+    {
+        "name": "AVON DOWNS",
+        "postcode": "0862"
+    },
+    {
+        "name": "AYERS ROCK",
+        "postcode": "0872"
+    },
+    {
+        "name": "BAGOT",
+        "postcode": "0820"
+    },
+    {
+        "name": "BAINES",
+        "postcode": "0852"
+    },
+    {
+        "name": "BAKEWELL",
+        "postcode": "0832"
+    },
+    {
+        "name": "BARROW CREEK",
+        "postcode": "0872"
+    },
+    {
+        "name": "BARUNGA",
+        "postcode": "0852"
+    },
+    {
+        "name": "BATCHELOR",
+        "postcode": "0845"
+    },
+    {
+        "name": "BATHURST ISLAND",
+        "postcode": "0822"
+    },
+    {
+        "name": "BAYVIEW",
+        "postcode": "0820"
+    },
+    {
+        "name": "BEES CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "BELLAMACK",
+        "postcode": "0832"
+    },
+    {
+        "name": "BELYUEN",
+        "postcode": "0822"
+    },
+    {
+        "name": "BERRIMAH",
+        "postcode": "0828"
+    },
+    {
+        "name": "BERRY SPRINGS",
+        "postcode": "0838"
+    },
+    {
+        "name": "BESWICK",
+        "postcode": "0852"
+    },
+    {
+        "name": "BESWICK CREEK",
+        "postcode": "0852"
+    },
+    {
+        "name": "BINJARI",
+        "postcode": "0852"
+    },
+    {
+        "name": "BIRDUM",
+        "postcode": "0852"
+    },
+    {
+        "name": "BLACK JUNGLE",
+        "postcode": "0822"
+    },
+    {
+        "name": "BLACKMORE",
+        "postcode": "0822"
+    },
+    {
+        "name": "BORDER STORE",
+        "postcode": "0822"
+    },
+    {
+        "name": "BORROLOOLA",
+        "postcode": "0854"
+    },
+    {
+        "name": "BRADSHAW",
+        "postcode": "0852"
+    },
+    {
+        "name": "BRAITLING",
+        "postcode": "0870"
+    },
+    {
+        "name": "BRINKIN",
+        "postcode": "0810"
+    },
+    {
+        "name": "BRUNCHILLY",
+        "postcode": "0861"
+    },
+    {
+        "name": "BUCHANAN",
+        "postcode": "0852"
+    },
+    {
+        "name": "BUFFALO CREEK",
+        "postcode": "0812"
+    },
+    {
+        "name": "BULMAN WEEMOL",
+        "postcode": "0852"
+    },
+    {
+        "name": "BURRUNDIE",
+        "postcode": "0822"
+    },
+    {
+        "name": "BURT PLAIN",
+        "postcode": "0872"
+    },
+    {
+        "name": "BYNOE",
+        "postcode": "0822"
+    },
+    {
+        "name": "BYNOE HARBOUR",
+        "postcode": "0822"
+    },
+    {
+        "name": "CALVERT",
+        "postcode": "0862"
+    },
+    {
+        "name": "CAMP CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "CANTEEN CREEK",
+        "postcode": "0872"
+    },
+    {
+        "name": "CASUARINA",
+        "postcode": "0810"
+    },
+    {
+        "name": "CHANNEL ISLAND",
+        "postcode": "0822"
+    },
+    {
+        "name": "CHARLES DARWIN",
+        "postcode": "0820"
+    },
+    {
+        "name": "CHARLES DARWIN UNIVERSITY",
+        "postcode": "0815"
+    },
+    {
+        "name": "CHARLOTTE",
+        "postcode": "0822"
+    },
+    {
+        "name": "CHILLA WELL",
+        "postcode": "0872"
+    },
+    {
+        "name": "CICCONE",
+        "postcode": "0870"
+    },
+    {
+        "name": "CLARAVALE",
+        "postcode": "0822"
+    },
+    {
+        "name": "COBOURG",
+        "postcode": "0822"
+    },
+    {
+        "name": "COCONUT GROVE",
+        "postcode": "0810"
+    },
+    {
+        "name": "COLLETT CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "CONNELLAN",
+        "postcode": "0870"
+    },
+    {
+        "name": "COOLALINGA",
+        "postcode": "0839"
+    },
+    {
+        "name": "COOMALIE CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "COONAWARRA",
+        "postcode": "0820"
+    },
+    {
+        "name": "COSSACK",
+        "postcode": "0850"
+    },
+    {
+        "name": "COSTELLO",
+        "postcode": "0872"
+    },
+    {
+        "name": "COX PENINSULA",
+        "postcode": "0822"
+    },
+    {
+        "name": "CRESSWELL DOWNS",
+        "postcode": "0862"
+    },
+    {
+        "name": "CRESWELL",
+        "postcode": "0852"
+    },
+    {
+        "name": "CROKER ISLAND",
+        "postcode": "0822"
+    },
+    {
+        "name": "CULLEN BAY",
+        "postcode": "0820"
+    },
+    {
+        "name": "DAGURAGU",
+        "postcode": "0852"
+    },
+    {
+        "name": "DALY",
+        "postcode": "0822"
+    },
+    {
+        "name": "DALY RIVER",
+        "postcode": "0822"
+    },
+    {
+        "name": "DALY WATERS",
+        "postcode": "0852"
+    },
+    {
+        "name": "DARWIN",
+        "postcode": "0800"
+    },
+    {
+        "name": "DARWIN DC",
+        "postcode": "0820"
+    },
+    {
+        "name": "DARWIN INTERNATIONAL AIRPORT",
+        "postcode": "0820"
+    },
+    {
+        "name": "DARWIN MC",
+        "postcode": "0820"
+    },
+    {
+        "name": "DARWIN RIVER",
+        "postcode": "0841"
+    },
+    {
+        "name": "DARWIN RIVER DAM",
+        "postcode": "0822"
+    },
+    {
+        "name": "DAVENPORT",
+        "postcode": "0872"
+    },
+    {
+        "name": "DELAMERE",
+        "postcode": "0852"
+    },
+    {
+        "name": "DELISSAVILLE",
+        "postcode": "0822"
+    },
+    {
+        "name": "DESERT SPRINGS",
+        "postcode": "0870"
+    },
+    {
+        "name": "DOCKER RIVER",
+        "postcode": "0872"
+    },
+    {
+        "name": "DOUGLAS-DALY",
+        "postcode": "0822"
+    },
+    {
+        "name": "DRIVER",
+        "postcode": "0830"
+    },
+    {
+        "name": "DUNDEE BEACH",
+        "postcode": "0840"
+    },
+    {
+        "name": "DUNDEE DOWNS",
+        "postcode": "0840"
+    },
+    {
+        "name": "DUNDEE FOREST",
+        "postcode": "0840"
+    },
+    {
+        "name": "DUNMARRA",
+        "postcode": "0852"
+    },
+    {
+        "name": "DURACK",
+        "postcode": "0830"
+    },
+    {
+        "name": "EAST ARM",
+        "postcode": "0822"
+    },
+    {
+        "name": "EAST ARNHEM",
+        "postcode": "0822"
+    },
+    {
+        "name": "EAST POINT",
+        "postcode": "0820"
+    },
+    {
+        "name": "EAST SIDE",
+        "postcode": "0870"
+    },
+    {
+        "name": "EATON",
+        "postcode": "0820"
+    },
+    {
+        "name": "EDITH",
+        "postcode": "0852"
+    },
+    {
+        "name": "ELLIOTT",
+        "postcode": "0862"
+    },
+    {
+        "name": "ELRUNDIE",
+        "postcode": "0822"
+    },
+    {
+        "name": "ELSEY",
+        "postcode": "0852"
+    },
+    {
+        "name": "ELSEY STATION",
+        "postcode": "0852"
+    },
+    {
+        "name": "EMUNGALAN",
+        "postcode": "0850"
+    },
+    {
+        "name": "ENGAWALA",
+        "postcode": "0872"
+    },
+    {
+        "name": "ERLDUNDA",
+        "postcode": "0872"
+    },
+    {
+        "name": "EVA VALLEY",
+        "postcode": "0822"
+    },
+    {
+        "name": "FANNIE BAY",
+        "postcode": "0820"
+    },
+    {
+        "name": "FARRAR",
+        "postcode": "0830"
+    },
+    {
+        "name": "FINKE",
+        "postcode": "0872"
+    },
+    {
+        "name": "FINNISS VALLEY",
+        "postcode": "0822"
+    },
+    {
+        "name": "FLEMING",
+        "postcode": "0822"
+    },
+    {
+        "name": "FLORINA",
+        "postcode": "0852"
+    },
+    {
+        "name": "FLY CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "FLYING FOX",
+        "postcode": "0852"
+    },
+    {
+        "name": "FLYNN",
+        "postcode": "0870"
+    },
+    {
+        "name": "FREDS PASS",
+        "postcode": "0822"
+    },
+    {
+        "name": "GALIWINKU",
+        "postcode": "0822"
+    },
+    {
+        "name": "GAPUWIYAK",
+        "postcode": "0880"
+    },
+    {
+        "name": "GHAN",
+        "postcode": "0872"
+    },
+    {
+        "name": "GILLEN",
+        "postcode": "0870"
+    },
+    {
+        "name": "GIRRAWEEN",
+        "postcode": "0836"
+    },
+    {
+        "name": "GLYDE POINT",
+        "postcode": "0822"
+    },
+    {
+        "name": "GOULBURN ISLAND",
+        "postcode": "0822"
+    },
+    {
+        "name": "GOVE",
+        "postcode": "0880"
+    },
+    {
+        "name": "GRAY",
+        "postcode": "0830"
+    },
+    {
+        "name": "GREGORY",
+        "postcode": "0852"
+    },
+    {
+        "name": "GULUNG MARDRULK",
+        "postcode": "0852"
+    },
+    {
+        "name": "GUNBALANYA",
+        "postcode": "0822"
+    },
+    {
+        "name": "GUNN",
+        "postcode": "0832"
+    },
+    {
+        "name": "GUNN POINT",
+        "postcode": "0822"
+    },
+    {
+        "name": "GUNYANGARA",
+        "postcode": "0880"
+    },
+    {
+        "name": "GURINDJI",
+        "postcode": "0852"
+    },
+    {
+        "name": "HAASTS BLUFF",
+        "postcode": "0872"
+    },
+    {
+        "name": "HALE",
+        "postcode": "0872"
+    },
+    {
+        "name": "HART",
+        "postcode": "0872"
+    },
+    {
+        "name": "HART RANGE",
+        "postcode": "0872"
+    },
+    {
+        "name": "HAYES CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "HELEN SPRINGS",
+        "postcode": "0862"
+    },
+    {
+        "name": "HERBERT",
+        "postcode": "0836"
+    },
+    {
+        "name": "HERMANNSBURG",
+        "postcode": "0872"
+    },
+    {
+        "name": "HIDDEN VALLEY",
+        "postcode": "0822"
+    },
+    {
+        "name": "HOLMES",
+        "postcode": "0812"
+    },
+    {
+        "name": "HOLTZE",
+        "postcode": "0829"
+    },
+    {
+        "name": "HOTHAM",
+        "postcode": "0822"
+    },
+    {
+        "name": "HOWARD SPRINGS",
+        "postcode": "0835"
+    },
+    {
+        "name": "HUGH",
+        "postcode": "0872"
+    },
+    {
+        "name": "HUGHES",
+        "postcode": "0822"
+    },
+    {
+        "name": "HUMPTY DOO",
+        "postcode": "0836"
+    },
+    {
+        "name": "ILPARPA",
+        "postcode": "0870"
+    },
+    {
+        "name": "IMANPA",
+        "postcode": "0872"
+    },
+    {
+        "name": "ININTI STORE",
+        "postcode": "0872"
+    },
+    {
+        "name": "IRLPME",
+        "postcode": "0870"
+    },
+    {
+        "name": "JABIRU",
+        "postcode": "0886"
+    },
+    {
+        "name": "JAY CREEK",
+        "postcode": "0872"
+    },
+    {
+        "name": "JILKMINGGAN",
+        "postcode": "0852"
+    },
+    {
+        "name": "JINGILI",
+        "postcode": "0810"
+    },
+    {
+        "name": "JOHNSTON",
+        "postcode": "0832"
+    },
+    {
+        "name": "KAKADU",
+        "postcode": "0822"
+    },
+    {
+        "name": "KALKARINDJI",
+        "postcode": "0852"
+    },
+    {
+        "name": "KALTUKATJARA",
+        "postcode": "0872"
+    },
+    {
+        "name": "KARAMA",
+        "postcode": "0812"
+    },
+    {
+        "name": "KATHERINE",
+        "postcode": "0850"
+    },
+    {
+        "name": "KATHERINE EAST",
+        "postcode": "0850"
+    },
+    {
+        "name": "KATHERINE SOUTH",
+        "postcode": "0850"
+    },
+    {
+        "name": "KING ASH BAY",
+        "postcode": "0854"
+    },
+    {
+        "name": "KINTORE",
+        "postcode": "0872"
+    },
+    {
+        "name": "KNUCKEY LAGOON",
+        "postcode": "0828"
+    },
+    {
+        "name": "KOOLPINYAH",
+        "postcode": "0822"
+    },
+    {
+        "name": "KULGERA",
+        "postcode": "0872"
+    },
+    {
+        "name": "KUNPARRKA",
+        "postcode": "0872"
+    },
+    {
+        "name": "LAJAMANU",
+        "postcode": "0852"
+    },
+    {
+        "name": "LAKE BENNETT",
+        "postcode": "0822"
+    },
+    {
+        "name": "LAKE MACKAY",
+        "postcode": "0872"
+    },
+    {
+        "name": "LAMBELLS LAGOON",
+        "postcode": "0822"
+    },
+    {
+        "name": "LANSDOWNE",
+        "postcode": "0850"
+    },
+    {
+        "name": "LARAMBA",
+        "postcode": "0872"
+    },
+    {
+        "name": "LARAPINTA",
+        "postcode": "0870"
+    },
+    {
+        "name": "LARRAKEYAH",
+        "postcode": "0820"
+    },
+    {
+        "name": "LARRIMAH",
+        "postcode": "0852"
+    },
+    {
+        "name": "LEANYER",
+        "postcode": "0812"
+    },
+    {
+        "name": "LEE POINT",
+        "postcode": "0810"
+    },
+    {
+        "name": "LIMMEN",
+        "postcode": "0852"
+    },
+    {
+        "name": "LITCHFIELD PARK",
+        "postcode": "0822"
+    },
+    {
+        "name": "LIVINGSTONE",
+        "postcode": "0822"
+    },
+    {
+        "name": "LLOYD CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "LUDMILLA",
+        "postcode": "0820"
+    },
+    {
+        "name": "LYONS",
+        "postcode": "0810"
+    },
+    {
+        "name": "MALAK",
+        "postcode": "0812"
+    },
+    {
+        "name": "MANBULLOO",
+        "postcode": "0852"
+    },
+    {
+        "name": "MANDORAH",
+        "postcode": "0822"
+    },
+    {
+        "name": "MANINGRIDA",
+        "postcode": "0822"
+    },
+    {
+        "name": "MANTON",
+        "postcode": "0837"
+    },
+    {
+        "name": "MARANBOY",
+        "postcode": "0852"
+    },
+    {
+        "name": "MARANUNGA",
+        "postcode": "0822"
+    },
+    {
+        "name": "MARGARET RIVER",
+        "postcode": "0822"
+    },
+    {
+        "name": "MARLOW LAGOON",
+        "postcode": "0830"
+    },
+    {
+        "name": "MARRAKAI",
+        "postcode": "0822"
+    },
+    {
+        "name": "MARRARA",
+        "postcode": "0812"
+    },
+    {
+        "name": "MATARANKA",
+        "postcode": "0852"
+    },
+    {
+        "name": "MCARTHUR",
+        "postcode": "0852"
+    },
+    {
+        "name": "MCMINNS LAGOON",
+        "postcode": "0822"
+    },
+    {
+        "name": "MEREENIE",
+        "postcode": "0872"
+    },
+    {
+        "name": "MICKETT CREEK",
+        "postcode": "0822"
+    },
+    {
+        "name": "MIDDLE POINT",
+        "postcode": "0822"
+    },
+    {
+        "name": "MILIKAPITI",
+        "postcode": "0822"
+    },
+    {
+        "name": "MILINGIMBI",
+        "postcode": "0822"
+    },
+    {
+        "name": "MILLNER",
+        "postcode": "0810"
+    },
+    {
+        "name": "MILLWOOD",
+        "postcode": "0822"
+    },
+    {
+        "name": "MILYAKBURRA",
+        "postcode": "0822"
+    },
+    {
+        "name": "MINIYERI",
+        "postcode": "0852"
+    },
+    {
+        "name": "MINJILANG",
+        "postcode": "0822"
+    },
+    {
+        "name": "MITCHELL",
+        "postcode": "0832"
+    },
+    {
+        "name": "MOIL",
+        "postcode": "0810"
+    },
+    {
+        "name": "MOULDEN",
+        "postcode": "0830"
+    },
+    {
+        "name": "MOUNT BUNDEY",
+        "postcode": "0822"
+    },
+    {
+        "name": "MOUNT JOHNS",
+        "postcode": "0870"
+    },
+    {
+        "name": "MOUNT LIEBIG",
+        "postcode": "0872"
+    },
+    {
+        "name": "MOUNT ZEIL",
+        "postcode": "0872"
+    },
+    {
+        "name": "MUCKATY STATION",
+        "postcode": "0862"
+    },
+    {
+        "name": "MUIRHEAD",
+        "postcode": "0810"
+    },
+    {
+        "name": "MULGA BORE",
+        "postcode": "0872"
+    },
+    {
+        "name": "MURRUMUJUK",
+        "postcode": "0822"
+    },
+    {
+        "name": "MUTITJULU",
+        "postcode": "0872"
+    },
+    {
+        "name": "NAKARA",
+        "postcode": "0810"
+    },
+    {
+        "name": "NAMATJIRA",
+        "postcode": "0872"
+    },
+    {
+        "name": "NAUIYU",
+        "postcode": "0822"
+    },
+    {
+        "name": "NEMARLUK",
+        "postcode": "0822"
+    },
+    {
+        "name": "NEWCASTLE WATERS",
+        "postcode": "0862"
+    },
+    {
+        "name": "NGANMARRIYANGA",
+        "postcode": "0822"
+    },
+    {
+        "name": "NGUKURR",
+        "postcode": "0852"
+    },
+    {
+        "name": "NHULUNBUY",
+        "postcode": "0880"
+    },
+    {
+        "name": "NICHOLSON",
+        "postcode": "0862"
+    },
+    {
+        "name": "NIGHTCLIFF",
+        "postcode": "0810"
+    },
+    {
+        "name": "NITMILUK",
+        "postcode": "0852"
+    },
+    {
+        "name": "NOONAMAH",
+        "postcode": "0837"
+    },
+    {
+        "name": "NORTHLAKES",
+        "postcode": "0812"
+    },
+    {
+        "name": "NUMBULWAR",
+        "postcode": "0822"
+    },
+    {
+        "name": "NUMBURINDI",
+        "postcode": "0822"
+    },
+    {
+        "name": "NYIRRIPI",
+        "postcode": "0872"
+    },
+    {
+        "name": "OENPELLI",
+        "postcode": "0822"
+    },
+    {
+        "name": "PALMERSTON",
+        "postcode": "0830"
+    },
+    {
+        "name": "PALUMPA",
+        "postcode": "0822"
+    },
+    {
+        "name": "PAMAYU",
+        "postcode": "0862"
+    },
+    {
+        "name": "PAPUNYA",
+        "postcode": "0872"
+    },
+    {
+        "name": "PARAP",
+        "postcode": "0804"
+    },
+    {
+        "name": "PELLEW ISLANDS",
+        "postcode": "0852"
+    },
+    {
+        "name": "PEPPIMENARTI",
+        "postcode": "0822"
+    },
+    {
+        "name": "PETERMANN",
+        "postcode": "0872"
+    },
+    {
+        "name": "PHILLIP CREEK STATION",
+        "postcode": "0862"
+    },
+    {
+        "name": "PIGEON HOLE",
+        "postcode": "0852"
+    },
+    {
+        "name": "PINE CREEK",
+        "postcode": "0847"
+    },
+    {
+        "name": "PINELANDS",
+        "postcode": "0829"
+    },
+    {
+        "name": "PIRLANGIMPI",
+        "postcode": "0822"
+    },
+    {
+        "name": "POINT STEPHENS",
+        "postcode": "0822"
+    },
+    {
+        "name": "POINT STUART",
+        "postcode": "0822"
+    },
+    {
+        "name": "PULARUMPI",
+        "postcode": "0822"
+    },
+    {
+        "name": "RAAF BASE DARWIN",
+        "postcode": "0820"
+    },
+    {
+        "name": "RAKULA",
+        "postcode": "0822"
+    },
+    {
+        "name": "RAMINGINING",
+        "postcode": "0822"
+    },
+    {
+        "name": "RAPID CREEK",
+        "postcode": "0810"
+    },
+    {
+        "name": "RENNER SPRINGS",
+        "postcode": "0862"
+    },
+    {
+        "name": "ROBIN FALLS",
+        "postcode": "0822"
+    },
+    {
+        "name": "ROBINSON RIVER",
+        "postcode": "0852"
+    },
+    {
+        "name": "ROSEBERY",
+        "postcode": "0832"
+    },
+    {
+        "name": "ROSEBERY HEIGHTS",
+        "postcode": "0832"
+    },
+    {
+        "name": "ROSS",
+        "postcode": "0870"
+    },
+    {
+        "name": "RUM JUNGLE",
+        "postcode": "0822"
+    },
+    {
+        "name": "SADADEEN",
+        "postcode": "0870"
+    },
+    {
+        "name": "SANDERSON",
+        "postcode": "0812"
+    },
+    {
+        "name": "SANDOVER",
+        "postcode": "0872"
+    },
+    {
+        "name": "SANDPALMS ROADHOUSE",
+        "postcode": "0822"
+    },
+    {
+        "name": "SANTA TERESA",
+        "postcode": "0872"
+    },
+    {
+        "name": "SHOAL BAY",
+        "postcode": "0830"
+    },
+    {
+        "name": "SIMPSON",
+        "postcode": "0872"
+    },
+    {
+        "name": "SOUTHPORT",
+        "postcode": "0822"
+    },
+    {
+        "name": "STAPLETON",
+        "postcode": "0822"
+    },
+    {
+        "name": "STUART",
+        "postcode": "0870"
+    },
+    {
+        "name": "STUART PARK",
+        "postcode": "0820"
+    },
+    {
+        "name": "STURT PLATEAU",
+        "postcode": "0852"
+    },
+    {
+        "name": "TABLELANDS",
+        "postcode": "0862"
+    },
+    {
+        "name": "TANAMI",
+        "postcode": "0872"
+    },
+    {
+        "name": "TANAMI EAST",
+        "postcode": "0852"
+    },
+    {
+        "name": "TARA",
+        "postcode": "0872"
+    },
+    {
+        "name": "TENNANT CREEK",
+        "postcode": "0860"
+    },
+    {
+        "name": "THAMARRURR",
+        "postcode": "0822"
+    },
+    {
+        "name": "THANGKENHARENGE",
+        "postcode": "0872"
+    },
+    {
+        "name": "THE GAP",
+        "postcode": "0870"
+    },
+    {
+        "name": "THE GARDENS",
+        "postcode": "0820"
+    },
+    {
+        "name": "THE NARROWS",
+        "postcode": "0820"
+    },
+    {
+        "name": "THREE WAYS",
+        "postcode": "0862"
+    },
+    {
+        "name": "TI TREE",
+        "postcode": "0872"
+    },
+    {
+        "name": "TIMBER CREEK",
+        "postcode": "0852"
+    },
+    {
+        "name": "TINDAL",
+        "postcode": "0853"
+    },
+    {
+        "name": "TIPPERARY",
+        "postcode": "0822"
+    },
+    {
+        "name": "TITJIKALA",
+        "postcode": "0872"
+    },
+    {
+        "name": "TIVENDALE",
+        "postcode": "0822"
+    },
+    {
+        "name": "TIWI",
+        "postcode": "0810"
+    },
+    {
+        "name": "TIWI ISLANDS",
+        "postcode": "0822"
+    },
+    {
+        "name": "TOP SPRINGS",
+        "postcode": "0852"
+    },
+    {
+        "name": "TORTILLA FLATS",
+        "postcode": "0822"
+    },
+    {
+        "name": "TUMBLING WATERS",
+        "postcode": "0822"
+    },
+    {
+        "name": "ULURU",
+        "postcode": "0872"
+    },
+    {
+        "name": "UMBAKUMBA",
+        "postcode": "0822"
+    },
+    {
+        "name": "UMPANGARA",
+        "postcode": "0872"
+    },
+    {
+        "name": "UNDOOLYA",
+        "postcode": "0870"
+    },
+    {
+        "name": "URALLA",
+        "postcode": "0852"
+    },
+    {
+        "name": "URAPUNTJA",
+        "postcode": "0872"
+    },
+    {
+        "name": "VENN",
+        "postcode": "0852"
+    },
+    {
+        "name": "VERNON ISLANDS",
+        "postcode": "0822"
+    },
+    {
+        "name": "VICTORIA RIVER",
+        "postcode": "0852"
+    },
+    {
+        "name": "VICTORIA RIVER DOWNS",
+        "postcode": "0852"
+    },
+    {
+        "name": "VIRGINIA",
+        "postcode": "0834"
+    },
+    {
+        "name": "WADEYE",
+        "postcode": "0822"
+    },
+    {
+        "name": "WAGAIT BEACH",
+        "postcode": "0822"
+    },
+    {
+        "name": "WAGAMAN",
+        "postcode": "0810"
+    },
+    {
+        "name": "WAK WAK",
+        "postcode": "0822"
+    },
+    {
+        "name": "WALLACE ROCKHOLE",
+        "postcode": "0872"
+    },
+    {
+        "name": "WANGURI",
+        "postcode": "0810"
+    },
+    {
+        "name": "WARREGO",
+        "postcode": "0862"
+    },
+    {
+        "name": "WARRUWI",
+        "postcode": "0822"
+    },
+    {
+        "name": "WARUMUNGU",
+        "postcode": "0852"
+    },
+    {
+        "name": "WAVE HILL",
+        "postcode": "0852"
+    },
+    {
+        "name": "WEDDELL",
+        "postcode": "0822"
+    },
+    {
+        "name": "WEST ARNHEM",
+        "postcode": "0822"
+    },
+    {
+        "name": "WHITE GUMS",
+        "postcode": "0870"
+    },
+    {
+        "name": "WICKHAM",
+        "postcode": "0822"
+    },
+    {
+        "name": "WILLOWRA",
+        "postcode": "0872"
+    },
+    {
+        "name": "WILORA",
+        "postcode": "0872"
+    },
+    {
+        "name": "WILTON",
+        "postcode": "0852"
+    },
+    {
+        "name": "WINNELLIE",
+        "postcode": "0820"
+    },
+    {
+        "name": "WISHART",
+        "postcode": "0822"
+    },
+    {
+        "name": "WOLLOGORANG STATION",
+        "postcode": "0862"
+    },
+    {
+        "name": "WOODLEIGH GARDENS",
+        "postcode": "0812"
+    },
+    {
+        "name": "WOODROFFE",
+        "postcode": "0830"
+    },
+    {
+        "name": "WOOLANING",
+        "postcode": "0822"
+    },
+    {
+        "name": "WOOLNER",
+        "postcode": "0820"
+    },
+    {
+        "name": "WULAGI",
+        "postcode": "0812"
+    },
+    {
+        "name": "WURRUMIYANGA",
+        "postcode": "0822"
+    },
+    {
+        "name": "WUTUNUGURRA",
+        "postcode": "0872"
+    },
+    {
+        "name": "WYCLIFFE WELL",
+        "postcode": "0862"
+    },
+    {
+        "name": "YARRALIN",
+        "postcode": "0852"
+    },
+    {
+        "name": "YARRAWONGA",
+        "postcode": "0830"
+    },
+    {
+        "name": "YIRRKALA",
+        "postcode": "0880"
+    },
+    {
+        "name": "YUELAMU",
+        "postcode": "0872"
+    },
+    {
+        "name": "YUENDUMU",
+        "postcode": "0872"
+    },
+    {
+        "name": "YULARA",
+        "postcode": "0872"
+    },
+    {
+        "name": "ZUCCOLI",
+        "postcode": "0832"
+    }
+]

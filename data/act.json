@@ -1,0 +1,590 @@
+[
+    {
+        "name": "ACTON",
+        "postcode": "2601"
+    },
+    {
+        "name": "AINSLIE",
+        "postcode": "2602"
+    },
+    {
+        "name": "AMAROO",
+        "postcode": "2914"
+    },
+    {
+        "name": "ARANDA",
+        "postcode": "2614"
+    },
+    {
+        "name": "AUSTRALIAN NATIONAL UNIVERSITY",
+        "postcode": "0200"
+    },
+    {
+        "name": "BANKS",
+        "postcode": "2906"
+    },
+    {
+        "name": "BARTON",
+        "postcode": "2600"
+    },
+    {
+        "name": "BEARD",
+        "postcode": "2620"
+    },
+    {
+        "name": "BELCONNEN",
+        "postcode": "2616"
+    },
+    {
+        "name": "BELCONNEN DC",
+        "postcode": "2617"
+    },
+    {
+        "name": "BLACK MOUNTAIN",
+        "postcode": "2601"
+    },
+    {
+        "name": "BONNER",
+        "postcode": "2914"
+    },
+    {
+        "name": "BONYTHON",
+        "postcode": "2905"
+    },
+    {
+        "name": "BRADDON",
+        "postcode": "2612"
+    },
+    {
+        "name": "BRUCE",
+        "postcode": "2617"
+    },
+    {
+        "name": "CALWELL",
+        "postcode": "2905"
+    },
+    {
+        "name": "CAMPBELL",
+        "postcode": "2612"
+    },
+    {
+        "name": "CANBERRA",
+        "postcode": "2600"
+    },
+    {
+        "name": "CANBERRA AIRPORT",
+        "postcode": "2609"
+    },
+    {
+        "name": "CANBERRA BC",
+        "postcode": "2610"
+    },
+    {
+        "name": "CANBERRA MC",
+        "postcode": "2610"
+    },
+    {
+        "name": "CAPITAL HILL",
+        "postcode": "2600"
+    },
+    {
+        "name": "CASEY",
+        "postcode": "2913"
+    },
+    {
+        "name": "CAUSEWAY",
+        "postcode": "2604"
+    },
+    {
+        "name": "CHAPMAN",
+        "postcode": "2611"
+    },
+    {
+        "name": "CHARNWOOD",
+        "postcode": "2615"
+    },
+    {
+        "name": "CHIFLEY",
+        "postcode": "2606"
+    },
+    {
+        "name": "CHISHOLM",
+        "postcode": "2905"
+    },
+    {
+        "name": "CITY",
+        "postcode": "2601"
+    },
+    {
+        "name": "CIVIC SQUARE",
+        "postcode": "2608"
+    },
+    {
+        "name": "CONDER",
+        "postcode": "2906"
+    },
+    {
+        "name": "COOK",
+        "postcode": "2614"
+    },
+    {
+        "name": "CRACE",
+        "postcode": "2911"
+    },
+    {
+        "name": "CURTIN",
+        "postcode": "2605"
+    },
+    {
+        "name": "DEAKIN",
+        "postcode": "2600"
+    },
+    {
+        "name": "DEAKIN WEST",
+        "postcode": "2600"
+    },
+    {
+        "name": "DICKSON",
+        "postcode": "2602"
+    },
+    {
+        "name": "DOWNER",
+        "postcode": "2602"
+    },
+    {
+        "name": "DUFFY",
+        "postcode": "2611"
+    },
+    {
+        "name": "DUNLOP",
+        "postcode": "2615"
+    },
+    {
+        "name": "DUNTROON",
+        "postcode": "2600"
+    },
+    {
+        "name": "ERINDALE CENTRE",
+        "postcode": "2903"
+    },
+    {
+        "name": "EVATT",
+        "postcode": "2617"
+    },
+    {
+        "name": "FADDEN",
+        "postcode": "2904"
+    },
+    {
+        "name": "FARRER",
+        "postcode": "2607"
+    },
+    {
+        "name": "FISHER",
+        "postcode": "2611"
+    },
+    {
+        "name": "FLOREY",
+        "postcode": "2615"
+    },
+    {
+        "name": "FLYNN",
+        "postcode": "2615"
+    },
+    {
+        "name": "FORDE",
+        "postcode": "2914"
+    },
+    {
+        "name": "FORREST",
+        "postcode": "2603"
+    },
+    {
+        "name": "FRANKLIN",
+        "postcode": "2913"
+    },
+    {
+        "name": "FRASER",
+        "postcode": "2615"
+    },
+    {
+        "name": "FYSHWICK",
+        "postcode": "2609"
+    },
+    {
+        "name": "GARRAN",
+        "postcode": "2605"
+    },
+    {
+        "name": "GILMORE",
+        "postcode": "2905"
+    },
+    {
+        "name": "GINNINDERRA VILLAGE",
+        "postcode": "2913"
+    },
+    {
+        "name": "GIRALANG",
+        "postcode": "2617"
+    },
+    {
+        "name": "GORDON",
+        "postcode": "2906"
+    },
+    {
+        "name": "GOWRIE",
+        "postcode": "2904"
+    },
+    {
+        "name": "GREENWAY",
+        "postcode": "2900"
+    },
+    {
+        "name": "GRIFFITH",
+        "postcode": "2603"
+    },
+    {
+        "name": "GUNGAHLIN",
+        "postcode": "2912"
+    },
+    {
+        "name": "HACKETT",
+        "postcode": "2602"
+    },
+    {
+        "name": "HALL",
+        "postcode": "2618"
+    },
+    {
+        "name": "HARMAN",
+        "postcode": "2600"
+    },
+    {
+        "name": "HARRISON",
+        "postcode": "2914"
+    },
+    {
+        "name": "HAWKER",
+        "postcode": "2614"
+    },
+    {
+        "name": "HIGGINS",
+        "postcode": "2615"
+    },
+    {
+        "name": "HMAS CRESWELL",
+        "postcode": "2540"
+    },
+    {
+        "name": "HMAS HARMAN",
+        "postcode": "2600"
+    },
+    {
+        "name": "HOLDER",
+        "postcode": "2611"
+    },
+    {
+        "name": "HOLT",
+        "postcode": "2615"
+    },
+    {
+        "name": "HUGHES",
+        "postcode": "2605"
+    },
+    {
+        "name": "HUME",
+        "postcode": "2620"
+    },
+    {
+        "name": "ISAACS",
+        "postcode": "2607"
+    },
+    {
+        "name": "ISABELLA PLAINS",
+        "postcode": "2905"
+    },
+    {
+        "name": "JAMISON CENTRE",
+        "postcode": "2614"
+    },
+    {
+        "name": "JERVIS BAY",
+        "postcode": "2540"
+    },
+    {
+        "name": "KALEEN",
+        "postcode": "2617"
+    },
+    {
+        "name": "KAMBAH",
+        "postcode": "2902"
+    },
+    {
+        "name": "KAMBAH VILLAGE",
+        "postcode": "2902"
+    },
+    {
+        "name": "KINGSTON",
+        "postcode": "2604"
+    },
+    {
+        "name": "KINLYSIDE",
+        "postcode": "2913"
+    },
+    {
+        "name": "KIPPAX",
+        "postcode": "2615"
+    },
+    {
+        "name": "KOWEN FOREST",
+        "postcode": "2620"
+    },
+    {
+        "name": "LATHAM",
+        "postcode": "2615"
+    },
+    {
+        "name": "LAWSON",
+        "postcode": "2617"
+    },
+    {
+        "name": "LYNEHAM",
+        "postcode": "2602"
+    },
+    {
+        "name": "LYONS",
+        "postcode": "2606"
+    },
+    {
+        "name": "MACARTHUR",
+        "postcode": "2904"
+    },
+    {
+        "name": "MACGREGOR",
+        "postcode": "2615"
+    },
+    {
+        "name": "MACQUARIE",
+        "postcode": "2614"
+    },
+    {
+        "name": "MAJURA",
+        "postcode": "2609"
+    },
+    {
+        "name": "MANUKA",
+        "postcode": "2603"
+    },
+    {
+        "name": "MAWSON",
+        "postcode": "2607"
+    },
+    {
+        "name": "MCKELLAR",
+        "postcode": "2617"
+    },
+    {
+        "name": "MELBA",
+        "postcode": "2615"
+    },
+    {
+        "name": "MITCHELL",
+        "postcode": "2911"
+    },
+    {
+        "name": "MONASH",
+        "postcode": "2904"
+    },
+    {
+        "name": "MONCRIEFF",
+        "postcode": "2914"
+    },
+    {
+        "name": "MOUNT STROMLO",
+        "postcode": "2611"
+    },
+    {
+        "name": "NARRABUNDAH",
+        "postcode": "2604"
+    },
+    {
+        "name": "NGUNNAWAL",
+        "postcode": "2913"
+    },
+    {
+        "name": "NICHOLLS",
+        "postcode": "2913"
+    },
+    {
+        "name": "OAKS ESTATE",
+        "postcode": "2620"
+    },
+    {
+        "name": "O'CONNOR",
+        "postcode": "2602"
+    },
+    {
+        "name": "O'MALLEY",
+        "postcode": "2606"
+    },
+    {
+        "name": "OXLEY",
+        "postcode": "2903"
+    },
+    {
+        "name": "PAGE",
+        "postcode": "2614"
+    },
+    {
+        "name": "PALMERSTON",
+        "postcode": "2913"
+    },
+    {
+        "name": "PARKES",
+        "postcode": "2600"
+    },
+    {
+        "name": "PARLIAMENT HOUSE",
+        "postcode": "2600"
+    },
+    {
+        "name": "PEARCE",
+        "postcode": "2607"
+    },
+    {
+        "name": "PHILLIP",
+        "postcode": "2606"
+    },
+    {
+        "name": "PIALLIGO",
+        "postcode": "2609"
+    },
+    {
+        "name": "PIERCES CREEK",
+        "postcode": "2611"
+    },
+    {
+        "name": "RED HILL",
+        "postcode": "2603"
+    },
+    {
+        "name": "REID",
+        "postcode": "2612"
+    },
+    {
+        "name": "RICHARDSON",
+        "postcode": "2905"
+    },
+    {
+        "name": "RIVETT",
+        "postcode": "2611"
+    },
+    {
+        "name": "RUSSELL",
+        "postcode": "2600"
+    },
+    {
+        "name": "RUSSELL HILL",
+        "postcode": "2600"
+    },
+    {
+        "name": "SCULLIN",
+        "postcode": "2614"
+    },
+    {
+        "name": "SPENCE",
+        "postcode": "2615"
+    },
+    {
+        "name": "STIRLING",
+        "postcode": "2611"
+    },
+    {
+        "name": "SWINGER HILL",
+        "postcode": "2606"
+    },
+    {
+        "name": "SYMONSTON",
+        "postcode": "2609"
+    },
+    {
+        "name": "TAYLOR",
+        "postcode": "2913"
+    },
+    {
+        "name": "THARWA",
+        "postcode": "2620"
+    },
+    {
+        "name": "THEODORE",
+        "postcode": "2905"
+    },
+    {
+        "name": "TOP NAAS",
+        "postcode": "2620"
+    },
+    {
+        "name": "TORRENS",
+        "postcode": "2607"
+    },
+    {
+        "name": "TUGGERANONG",
+        "postcode": "2900"
+    },
+    {
+        "name": "TUGGERANONG DC",
+        "postcode": "2901"
+    },
+    {
+        "name": "TURNER",
+        "postcode": "2612"
+    },
+    {
+        "name": "UNIVERSITY OF CANBERRA",
+        "postcode": "2617"
+    },
+    {
+        "name": "URIARRA",
+        "postcode": "2611"
+    },
+    {
+        "name": "URIARRA FOREST",
+        "postcode": "2611"
+    },
+    {
+        "name": "WANNIASSA",
+        "postcode": "2903"
+    },
+    {
+        "name": "WARAMANGA",
+        "postcode": "2611"
+    },
+    {
+        "name": "WATSON",
+        "postcode": "2602"
+    },
+    {
+        "name": "WEETANGERA",
+        "postcode": "2614"
+    },
+    {
+        "name": "WESTON",
+        "postcode": "2611"
+    },
+    {
+        "name": "WESTON CREEK",
+        "postcode": "2611"
+    },
+    {
+        "name": "WILLIAMSDALE",
+        "postcode": "2620"
+    },
+    {
+        "name": "WODEN",
+        "postcode": "2606"
+    },
+    {
+        "name": "YARRALUMLA",
+        "postcode": "2600"
+    }
+]
