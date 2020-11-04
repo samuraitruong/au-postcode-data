@@ -47,18 +47,30 @@ async function fetch(state) {
 
   const detailsUrl = allUrls.flat();
   console.log('Total postcode found', detailsUrl.length);
-  const results = await asyncPool(50, detailsUrl, getInfo);
+  const results = await (await asyncPool(50, detailsUrl, getInfo)).filter(
+    Boolean,
+  );
 
-  fs.writeJsonSync('./data/' + state + '.json', results.filter(Boolean), {
+  const dictData = results.reduce((acc, cur) => {
+    acc[cur.postcode] = acc[cur.postcode] || [];
+    acc[cur.postcode].push(cur.name);
+    return acc;
+  }, {});
+
+  fs.writeJsonSync('./data/' + state + '.json', results, {
+    spaces: 4,
+  });
+
+  fs.writeJsonSync('./data/' + state + '_dict.json', dictData, {
     spaces: 4,
   });
 }
 (async () => {
-  //await fetch('vic');
-  //await fetch('tas');
-  // await fetch('wa');
-  // await fetch('nt');
-  // await fetch('nsw');
+  await fetch('vic');
+  await fetch('tas');
+  await fetch('wa');
+  await fetch('nt');
+  await fetch('nsw');
   await fetch('qld');
   await fetch('act');
   await fetch('sa');

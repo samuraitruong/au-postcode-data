@@ -1,0 +1,2568 @@
+{
+    "6000": [
+        "CITY DELIVERY CENTRE",
+        "PERTH",
+        "PERTH GPO"
+    ],
+    "6003": [
+        "HIGHGATE",
+        "NORTHBRIDGE"
+    ],
+    "6004": [
+        "EAST PERTH"
+    ],
+    "6005": [
+        "KINGS PARK",
+        "WEST PERTH"
+    ],
+    "6006": [
+        "NORTH PERTH"
+    ],
+    "6007": [
+        "LEEDERVILLE",
+        "WEST LEEDERVILLE"
+    ],
+    "6008": [
+        "DAGLISH",
+        "SHENTON PARK",
+        "SUBIACO",
+        "SUBIACO EAST"
+    ],
+    "6009": [
+        "BROADWAY NEDLANDS",
+        "CRAWLEY",
+        "DALKEITH",
+        "NEDLANDS",
+        "NEDLANDS DC"
+    ],
+    "6010": [
+        "CLAREMONT",
+        "CLAREMONT NORTH",
+        "KARRAKATTA",
+        "MOUNT CLAREMONT",
+        "SWANBOURNE"
+    ],
+    "6011": [
+        "COTTESLOE",
+        "PEPPERMINT GROVE"
+    ],
+    "6012": [
+        "MOSMAN PARK"
+    ],
+    "6014": [
+        "FLOREAT",
+        "JOLIMONT",
+        "WEMBLEY"
+    ],
+    "6015": [
+        "CITY BEACH"
+    ],
+    "6016": [
+        "GLENDALOUGH",
+        "MOUNT HAWTHORN"
+    ],
+    "6017": [
+        "HERDSMAN",
+        "OSBORNE PARK",
+        "OSBORNE PARK DC"
+    ],
+    "6018": [
+        "CHURCHLANDS",
+        "DOUBLEVIEW",
+        "GWELUP",
+        "GWELUP DC",
+        "INNALOO",
+        "KARRINYUP",
+        "WOODLANDS"
+    ],
+    "6019": [
+        "SCARBOROUGH",
+        "WEMBLEY DOWNS"
+    ],
+    "6020": [
+        "CARINE",
+        "MARMION",
+        "NORTH BEACH",
+        "SORRENTO",
+        "WATERMANS BAY"
+    ],
+    "6021": [
+        "BALCATTA",
+        "STIRLING"
+    ],
+    "6022": [
+        "HAMERSLEY"
+    ],
+    "6023": [
+        "DUNCRAIG"
+    ],
+    "6024": [
+        "GREENWOOD",
+        "WARWICK"
+    ],
+    "6025": [
+        "CRAIGIE",
+        "HILLARYS",
+        "KALLAROO",
+        "PADBURY"
+    ],
+    "6026": [
+        "KINGSLEY",
+        "WOODVALE"
+    ],
+    "6027": [
+        "BELDON",
+        "CONNOLLY",
+        "EDGEWATER",
+        "HEATHRIDGE",
+        "JOONDALUP",
+        "JOONDALUP DC",
+        "MULLALOO",
+        "OCEAN REEF"
+    ],
+    "6028": [
+        "BURNS BEACH",
+        "CURRAMBINE",
+        "ILUKA",
+        "KINROSS"
+    ],
+    "6029": [
+        "TRIGG"
+    ],
+    "6030": [
+        "CLARKSON",
+        "MERRIWA",
+        "MINDARIE",
+        "QUINNS ROCKS",
+        "RIDGEWOOD",
+        "TAMALA PARK"
+    ],
+    "6031": [
+        "BANKSIA GROVE",
+        "CARRAMAR",
+        "NEERABUP"
+    ],
+    "6032": [
+        "NOWERGUP"
+    ],
+    "6033": [
+        "CARABOODA"
+    ],
+    "6034": [
+        "EGLINTON"
+    ],
+    "6035": [
+        "YANCHEP"
+    ],
+    "6036": [
+        "BUTLER",
+        "JINDALEE"
+    ],
+    "6037": [
+        "TWO ROCKS"
+    ],
+    "6038": [
+        "ALKIMOS"
+    ],
+    "6041": [
+        "CARABAN",
+        "GABBADAH",
+        "GUILDERTON",
+        "WILBINGA",
+        "WOODRIDGE"
+    ],
+    "6042": [
+        "SEABIRD"
+    ],
+    "6043": [
+        "BRETON BAY",
+        "LEDGE POINT"
+    ],
+    "6044": [
+        "KARAKIN",
+        "LANCELIN",
+        "NILGEN",
+        "WEDGE ISLAND"
+    ],
+    "6050": [
+        "COOLBINIA",
+        "MENORA",
+        "MOUNT LAWLEY"
+    ],
+    "6051": [
+        "MAYLANDS"
+    ],
+    "6052": [
+        "BEDFORD",
+        "INGLEWOOD"
+    ],
+    "6053": [
+        "BAYSWATER"
+    ],
+    "6054": [
+        "ASHFIELD",
+        "BASSENDEAN",
+        "EDEN HILL",
+        "KIARA",
+        "LOCKRIDGE"
+    ],
+    "6055": [
+        "CAVERSHAM",
+        "DAYTON",
+        "GUILDFORD",
+        "HAZELMERE",
+        "HENLEY BROOK",
+        "SOUTH GUILDFORD",
+        "WEST SWAN"
+    ],
+    "6056": [
+        "BASKERVILLE",
+        "BELLEVUE",
+        "BOYA",
+        "GREENMOUNT",
+        "HELENA VALLEY",
+        "HERNE HILL",
+        "JANE BROOK",
+        "KOONGAMIA",
+        "MIDDLE SWAN",
+        "MIDLAND",
+        "MIDVALE",
+        "MILLENDON",
+        "RED HILL",
+        "STRATTON",
+        "SWAN VIEW",
+        "VIVEASH",
+        "WOODBRIDGE"
+    ],
+    "6057": [
+        "HIGH WYCOMBE",
+        "MAIDA VALE"
+    ],
+    "6058": [
+        "FORRESTFIELD"
+    ],
+    "6059": [
+        "DIANELLA"
+    ],
+    "6060": [
+        "JOONDANNA",
+        "TUART HILL",
+        "YOKINE",
+        "YOKINE SOUTH"
+    ],
+    "6061": [
+        "BALGA",
+        "MIRRABOOKA",
+        "NOLLAMARA",
+        "WESTMINSTER"
+    ],
+    "6062": [
+        "EMBLETON",
+        "MORLEY",
+        "NORANDA"
+    ],
+    "6063": [
+        "BEECHBORO"
+    ],
+    "6064": [
+        "ALEXANDER HEIGHTS",
+        "GIRRAWHEEN",
+        "KOONDOOLA",
+        "MARANGAROO"
+    ],
+    "6065": [
+        "ASHBY",
+        "DARCH",
+        "HOCKING",
+        "KINGSWAY",
+        "LANDSDALE",
+        "MADELEY",
+        "PEARSALL",
+        "SINAGRA",
+        "TAPPING",
+        "WANGARA",
+        "WANGARA DC",
+        "WANNEROO"
+    ],
+    "6066": [
+        "BALLAJURA"
+    ],
+    "6067": [
+        "CULLACABARDEE"
+    ],
+    "6068": [
+        "WHITEMAN"
+    ],
+    "6069": [
+        "AVELEY",
+        "BELHUS",
+        "BRIGADOON",
+        "ELLENBROOK",
+        "ELLENBROOK EAST",
+        "THE VINES",
+        "UPPER SWAN"
+    ],
+    "6070": [
+        "DARLINGTON"
+    ],
+    "6071": [
+        "GLEN FORREST",
+        "HOVEA"
+    ],
+    "6072": [
+        "MAHOGANY CREEK"
+    ],
+    "6073": [
+        "MUNDARING",
+        "MUNDARING DC"
+    ],
+    "6074": [
+        "SAWYERS VALLEY"
+    ],
+    "6076": [
+        "BICKLEY",
+        "CARMEL",
+        "GOOSEBERRY HILL",
+        "HACKETTS GULLY",
+        "KALAMUNDA",
+        "LESMURDIE",
+        "PAULLS VALLEY",
+        "PICKERING BROOK",
+        "PIESSE BROOK",
+        "RESERVOIR",
+        "WALLISTON"
+    ],
+    "6077": [
+        "GNANGARA",
+        "JANDABUP"
+    ],
+    "6078": [
+        "MARIGINIUP",
+        "PINJAR"
+    ],
+    "6079": [
+        "LEXIA",
+        "MELALEUCA"
+    ],
+    "6081": [
+        "PARKERVILLE",
+        "STONEVILLE"
+    ],
+    "6082": [
+        "BAILUP",
+        "MOUNT HELENA"
+    ],
+    "6083": [
+        "GIDGEGANNUP",
+        "MORANGUP"
+    ],
+    "6084": [
+        "AVON VALLEY NATIONAL PARK",
+        "BULLSBROOK",
+        "CHITTERING",
+        "LOWER CHITTERING",
+        "WALYUNGA NATIONAL PARK"
+    ],
+    "6090": [
+        "MALAGA"
+    ],
+    "6100": [
+        "BURSWOOD",
+        "LATHLAIN",
+        "VICTORIA PARK"
+    ],
+    "6101": [
+        "CARLISLE",
+        "CARLISLE NORTH",
+        "CARLISLE SOUTH",
+        "EAST VICTORIA PARK"
+    ],
+    "6102": [
+        "BENTLEY",
+        "BENTLEY DC",
+        "BENTLEY SOUTH",
+        "ST JAMES"
+    ],
+    "6103": [
+        "RIVERVALE"
+    ],
+    "6104": [
+        "ASCOT",
+        "BELMONT",
+        "REDCLIFFE"
+    ],
+    "6105": [
+        "CLOVERDALE",
+        "KEWDALE",
+        "PERTH AIRPORT"
+    ],
+    "6106": [
+        "WELSHPOOL"
+    ],
+    "6107": [
+        "BECKENHAM",
+        "CANNINGTON",
+        "EAST CANNINGTON",
+        "KENWICK",
+        "QUEENS PARK",
+        "WATTLE GROVE",
+        "WILSON"
+    ],
+    "6108": [
+        "THORNLIE"
+    ],
+    "6109": [
+        "MADDINGTON",
+        "ORANGE GROVE"
+    ],
+    "6110": [
+        "GOSNELLS",
+        "HUNTINGDALE",
+        "MARTIN",
+        "SOUTHERN RIVER"
+    ],
+    "6111": [
+        "ASHENDON",
+        "CAMILLO",
+        "CANNING MILLS",
+        "CHAMPION LAKES",
+        "KARRAGULLEN",
+        "KELMSCOTT",
+        "KELMSCOTT DC",
+        "LESLEY",
+        "ROLEYSTONE"
+    ],
+    "6112": [
+        "ARMADALE",
+        "BEDFORDALE",
+        "BROOKDALE",
+        "FORRESTDALE",
+        "HARRISDALE",
+        "HAYNES",
+        "HILBERT",
+        "MOUNT NASURA",
+        "MOUNT RICHON",
+        "PIARA WATERS",
+        "SEVILLE GROVE",
+        "WUNGONG"
+    ],
+    "6121": [
+        "OAKFORD",
+        "OLDBURY"
+    ],
+    "6122": [
+        "BYFORD",
+        "CARDUP",
+        "DARLING DOWNS",
+        "KARRAKUP"
+    ],
+    "6123": [
+        "MUNDIJONG",
+        "WHITBY"
+    ],
+    "6124": [
+        "JARRAHDALE"
+    ],
+    "6125": [
+        "HOPELAND",
+        "MARDELLA",
+        "SERPENTINE"
+    ],
+    "6126": [
+        "KEYSBROOK"
+    ],
+    "6147": [
+        "LANGFORD",
+        "LYNWOOD",
+        "PARKWOOD"
+    ],
+    "6148": [
+        "FERNDALE",
+        "RIVERTON",
+        "ROSSMOYNE",
+        "SHELLEY"
+    ],
+    "6149": [
+        "BULL CREEK",
+        "LEEMING"
+    ],
+    "6150": [
+        "BATEMAN",
+        "MURDOCH",
+        "WINTHROP"
+    ],
+    "6151": [
+        "KENSINGTON",
+        "SOUTH PERTH",
+        "SOUTH PERTH ANGELO ST"
+    ],
+    "6152": [
+        "COMO",
+        "KARAWARA",
+        "MANNING",
+        "SALTER POINT",
+        "WATERFORD"
+    ],
+    "6153": [
+        "APPLECROSS",
+        "APPLECROSS NORTH",
+        "ARDROSS",
+        "BRENTWOOD",
+        "CANNING BRIDGE APPLECROSS",
+        "MOUNT PLEASANT"
+    ],
+    "6154": [
+        "ALFRED COVE",
+        "BOORAGOON",
+        "MYAREE"
+    ],
+    "6155": [
+        "CANNING VALE",
+        "CANNING VALE DC",
+        "CANNING VALE EAST",
+        "CANNING VALE SOUTH",
+        "WILLETTON"
+    ],
+    "6156": [
+        "ATTADALE",
+        "MELVILLE",
+        "WILLAGEE",
+        "WILLAGEE CENTRAL"
+    ],
+    "6157": [
+        "BICTON",
+        "PALMYRA",
+        "PALMYRA DC"
+    ],
+    "6158": [
+        "EAST FREMANTLE"
+    ],
+    "6159": [
+        "NORTH FREMANTLE"
+    ],
+    "6160": [
+        "FREMANTLE"
+    ],
+    "6161": [
+        "ROTTNEST ISLAND"
+    ],
+    "6162": [
+        "BEACONSFIELD",
+        "SOUTH FREMANTLE",
+        "WHITE GUM VALLEY"
+    ],
+    "6163": [
+        "BIBRA LAKE",
+        "BIBRA LAKE DC",
+        "COOLBELLUP",
+        "HAMILTON HILL",
+        "HILTON",
+        "KARDINYA",
+        "NORTH COOGEE",
+        "NORTH LAKE",
+        "O'CONNOR",
+        "SAMSON",
+        "SPEARWOOD"
+    ],
+    "6164": [
+        "ATWELL",
+        "AUBIN GROVE",
+        "BANJUP",
+        "BEELIAR",
+        "COCKBURN CENTRAL",
+        "HAMMOND PARK",
+        "JANDAKOT",
+        "SOUTH LAKE",
+        "SUCCESS",
+        "YANGEBUP"
+    ],
+    "6165": [
+        "HOPE VALLEY",
+        "NAVAL BASE"
+    ],
+    "6166": [
+        "COOGEE",
+        "HENDERSON",
+        "MUNSTER",
+        "WATTLEUP"
+    ],
+    "6167": [
+        "ANKETELL",
+        "BERTRAM",
+        "CALISTA",
+        "CASUARINA",
+        "KWINANA BEACH",
+        "KWINANA TOWN CENTRE",
+        "MANDOGALUP",
+        "MEDINA",
+        "ORELIA",
+        "PARMELIA",
+        "POSTANS",
+        "THE SPECTACLES",
+        "WANDI"
+    ],
+    "6168": [
+        "COOLOONGUP",
+        "EAST ROCKINGHAM",
+        "GARDEN ISLAND",
+        "HILLMAN",
+        "PERON",
+        "ROCKINGHAM",
+        "ROCKINGHAM BEACH",
+        "ROCKINGHAM DC"
+    ],
+    "6169": [
+        "SAFETY BAY",
+        "SHOALWATER",
+        "WAIKIKI",
+        "WARNBRO"
+    ],
+    "6170": [
+        "LEDA",
+        "WELLARD"
+    ],
+    "6171": [
+        "BALDIVIS"
+    ],
+    "6172": [
+        "PORT KENNEDY"
+    ],
+    "6173": [
+        "SECRET HARBOUR"
+    ],
+    "6174": [
+        "GOLDEN BAY"
+    ],
+    "6175": [
+        "SINGLETON"
+    ],
+    "6176": [
+        "KARNUP"
+    ],
+    "6180": [
+        "LAKELANDS",
+        "PARKLANDS"
+    ],
+    "6181": [
+        "STAKE HILL"
+    ],
+    "6182": [
+        "KERALUP"
+    ],
+    "6207": [
+        "MYARA",
+        "NAMBEELUP",
+        "NORTH DANDALUP",
+        "SOLUS",
+        "WHITTAKER"
+    ],
+    "6208": [
+        "BLYTHEWOOD",
+        "FAIRBRIDGE",
+        "MEELON",
+        "NIRIMBA",
+        "NORTH YUNDERUP",
+        "OAKLEY",
+        "PINJARRA",
+        "POINT GREY",
+        "RAVENSWOOD",
+        "SOUTH YUNDERUP",
+        "WEST PINJARRA"
+    ],
+    "6209": [
+        "BARRAGUP",
+        "FURNISSDALE"
+    ],
+    "6210": [
+        "COODANUP",
+        "DUDLEY PARK",
+        "ERSKINE",
+        "FALCON",
+        "GREENFIELDS",
+        "HALLS HEAD",
+        "MADORA BAY",
+        "MANDURAH",
+        "MANDURAH DC",
+        "MANDURAH EAST",
+        "MANDURAH NORTH",
+        "MEADOW SPRINGS",
+        "SAN REMO",
+        "SILVER SANDS",
+        "WANNANUP"
+    ],
+    "6211": [
+        "BOUVARD",
+        "CLIFTON",
+        "DAWESVILLE",
+        "HERRON"
+    ],
+    "6213": [
+        "BANKSIADALE",
+        "DWELLINGUP",
+        "ETMILYN",
+        "HOLYOAKE",
+        "INGLEHOPE",
+        "MARRINUP",
+        "TEESDALE"
+    ],
+    "6214": [
+        "BIRCHMONT",
+        "COOLUP",
+        "WEST COOLUP"
+    ],
+    "6215": [
+        "HAMEL",
+        "LAKE CLIFTON",
+        "NANGA BROOK",
+        "PRESTON BEACH",
+        "WAGERUP",
+        "WAROONA"
+    ],
+    "6218": [
+        "YARLOOP"
+    ],
+    "6220": [
+        "COOKERNUP",
+        "HARVEY",
+        "HOFFMAN",
+        "MYALUP",
+        "UDUC",
+        "WARAWARRUP"
+    ],
+    "6221": [
+        "MORNINGTON",
+        "WOKALUP"
+    ],
+    "6223": [
+        "BENGER"
+    ],
+    "6224": [
+        "BEELA",
+        "BRUNSWICK"
+    ],
+    "6225": [
+        "ALLANSON",
+        "BOWELLING",
+        "BUCKINGHAM",
+        "CARDIFF",
+        "COLLIE",
+        "COLLIE BURN",
+        "HARRIS RIVER",
+        "LYALLS MILL",
+        "MCALINDEN",
+        "MUJA",
+        "MUMBALLUP",
+        "MUNGALUP",
+        "NOGGERUP",
+        "PALMER",
+        "PRESTON SETTLEMENT",
+        "SHOTTS",
+        "WORSLEY",
+        "YOURDAMUNG LAKE"
+    ],
+    "6226": [
+        "ROELANDS"
+    ],
+    "6227": [
+        "BUREKUP"
+    ],
+    "6228": [
+        "WATERLOO"
+    ],
+    "6229": [
+        "PICTON",
+        "PICTON EAST"
+    ],
+    "6230": [
+        "BUNBURY",
+        "CAREY PARK",
+        "COLLEGE GROVE",
+        "DALYELLUP",
+        "DAVENPORT",
+        "EAST BUNBURY",
+        "GELORUP",
+        "GLEN IRIS",
+        "PELICAN POINT",
+        "SOUTH BUNBURY",
+        "USHER",
+        "VITTORIA",
+        "WITHERS"
+    ],
+    "6232": [
+        "EATON",
+        "MILLBRIDGE"
+    ],
+    "6233": [
+        "AUSTRALIND",
+        "BINNINGUP",
+        "LESCHENAULT",
+        "PARKFIELD",
+        "WELLESLEY"
+    ],
+    "6236": [
+        "CROOKED BROOK",
+        "DARDANUP",
+        "DARDANUP WEST",
+        "FERGUSON",
+        "HENTY",
+        "PARADISE",
+        "WELLINGTON FOREST",
+        "WELLINGTON MILL"
+    ],
+    "6237": [
+        "BOYANUP",
+        "ELGIN",
+        "GWINDINUP",
+        "NORTH BOYANUP",
+        "STRATHAM",
+        "THE PLAINS"
+    ],
+    "6239": [
+        "ARGYLE",
+        "BEELERUP",
+        "BROOKHAMPTON",
+        "CHARLEY CREEK",
+        "DONNYBROOK",
+        "GLEN MERVYN",
+        "PAYNEDALE",
+        "QUEENWOOD",
+        "THOMSON BROOK",
+        "UPPER CAPEL",
+        "YABBERUP"
+    ],
+    "6240": [
+        "LOWDEN"
+    ],
+    "6243": [
+        "WILGA",
+        "WILGA WEST"
+    ],
+    "6244": [
+        "BOYUP BROOK",
+        "CHOWERUP",
+        "DINNINUP",
+        "KULIKUP",
+        "MAYANUP",
+        "SCOTTS BROOK",
+        "TONEBRIDGE",
+        "TRIGWELL"
+    ],
+    "6251": [
+        "BRAZIER",
+        "KIRUP",
+        "NEWLANDS"
+    ],
+    "6252": [
+        "MULLALYUP"
+    ],
+    "6253": [
+        "BALINGUP",
+        "GRIMWADE",
+        "SOUTHAMPTON"
+    ],
+    "6254": [
+        "GREENBUSHES",
+        "NORTH GREENBUSHES"
+    ],
+    "6255": [
+        "BENJINUP",
+        "BRIDGETOWN",
+        "CATTERICK",
+        "HESTER",
+        "HESTER BROOK",
+        "KANGAROO GULLY",
+        "WINNEJUP"
+    ],
+    "6256": [
+        "GLENLYNN",
+        "KINGSTON",
+        "MARANUP",
+        "SUNNYSIDE",
+        "WANDILLUP",
+        "YORNUP"
+    ],
+    "6258": [
+        "BALBARRUP",
+        "CROWEA",
+        "DEANMILL",
+        "DIAMOND TREE",
+        "DINGUP",
+        "DIXVALE",
+        "DONNELLY RIVER",
+        "GLENORAN",
+        "JARDEE",
+        "LAKE MUIR",
+        "LINFARNE",
+        "MANJIMUP",
+        "MIDDLESEX",
+        "MORDALUP",
+        "PALGARUP",
+        "PERUP",
+        "QUINNINUP",
+        "RINGBARK",
+        "SMITH BROOK",
+        "UPPER WARREN",
+        "WILGARRUP",
+        "YANMAH"
+    ],
+    "6260": [
+        "BEEDELUP",
+        "BIDDELIA",
+        "CALLCUP",
+        "CHANNYBEARUP",
+        "COLLINS",
+        "EASTBROOK",
+        "LAKE JASPER",
+        "PEERABEELUP",
+        "PEMBERTON",
+        "YEAGARUP"
+    ],
+    "6262": [
+        "BOORARA BROOK",
+        "MEERUP",
+        "NORTHCLIFFE",
+        "SHANNON",
+        "WINDY HARBOUR"
+    ],
+    "6271": [
+        "CAPEL",
+        "CAPEL RIVER",
+        "FORREST BEACH",
+        "PEPPERMINT GROVE BEACH",
+        "STIRLING ESTATE"
+    ],
+    "6275": [
+        "BARRABUP",
+        "CARLOTTA",
+        "CUNDINUP",
+        "DARRADUP",
+        "EAST NANNUP",
+        "JALBARRAGUP",
+        "JARRAHWOOD",
+        "NANNUP",
+        "SCOTT RIVER EAST",
+        "YOGANUP"
+    ],
+    "6280": [
+        "ABBA RIVER",
+        "ABBEY",
+        "ACTON PARK",
+        "AMBERGATE",
+        "ANNIEBROOK",
+        "BOALLIA",
+        "BOVELL",
+        "BROADWATER",
+        "BUSSELTON",
+        "CARBUNUP RIVER",
+        "CHAPMAN HILL",
+        "GEOGRAPHE",
+        "HITHERGREEN",
+        "JINDONG",
+        "KALGUP",
+        "KALOORUP",
+        "KEALY",
+        "LUDLOW",
+        "MARYBROOK",
+        "METRICUP",
+        "NORTH JINDONG",
+        "REINSCOURT",
+        "RUABON",
+        "SABINA RIVER",
+        "SIESTA PARK",
+        "TUTUNUP",
+        "VASSE",
+        "WALSALL",
+        "WEST BUSSELTON",
+        "WILYABRUP",
+        "WONNERUP",
+        "YALYALUP",
+        "YELVERTON",
+        "YOONGARILLUP"
+    ],
+    "6281": [
+        "DUNSBOROUGH",
+        "EAGLE BAY",
+        "NATURALISTE",
+        "QUEDJINUP",
+        "QUINDALUP"
+    ],
+    "6282": [
+        "YALLINGUP",
+        "YALLINGUP SIDING"
+    ],
+    "6284": [
+        "BAUDIN",
+        "COWARAMUP",
+        "GRACETOWN",
+        "TREETON"
+    ],
+    "6285": [
+        "BRAMLEY",
+        "BURNSIDE",
+        "GNARABUP",
+        "MARGARET RIVER",
+        "OSMINGTON",
+        "PREVELLY",
+        "ROSA BROOK",
+        "ROSA GLEN",
+        "SCHROEDER"
+    ],
+    "6286": [
+        "BORANUP",
+        "FOREST GROVE",
+        "REDGATE",
+        "WITCHCLIFFE"
+    ],
+    "6288": [
+        "ALEXANDRA BRIDGE",
+        "COURTENAY",
+        "HAMELIN BAY",
+        "KARRIDALE",
+        "NILLUP",
+        "SCOTT RIVER",
+        "WARNER GLEN"
+    ],
+    "6290": [
+        "AUGUSTA",
+        "DEEPDENE",
+        "EAST AUGUSTA",
+        "KUDARDUP",
+        "LEEUWIN",
+        "MOLLOY ISLAND"
+    ],
+    "6302": [
+        "BADGIN",
+        "BALLADONG",
+        "BURGES",
+        "CALJIE",
+        "COLD HARBOUR",
+        "DALIAK",
+        "FLINT",
+        "FLYNN",
+        "GILGERING",
+        "GREENHILLS",
+        "GWAMBYGINE",
+        "INKPEN",
+        "KAURING",
+        "MALEBELLING",
+        "MOUNT HARDEY",
+        "MOUNT OBSERVATION",
+        "NARRALOGGAN",
+        "QUELLINGTON",
+        "ST RONANS",
+        "TALBOT",
+        "TALBOT WEST",
+        "WILBERFORCE",
+        "YORK"
+    ],
+    "6304": [
+        "BALLY BALLY",
+        "BEVERLEY",
+        "DALE",
+        "EAST BEVERLEY",
+        "KOKEBY",
+        "MORBINNING",
+        "WESTDALE"
+    ],
+    "6306": [
+        "ALDERSYDE",
+        "BROOKTON",
+        "BULYEE",
+        "JELCOBINE",
+        "KWEDA"
+    ],
+    "6308": [
+        "CODJATOTINE",
+        "DWARDA",
+        "EAST PINGELLY",
+        "GILLIMANNING",
+        "HASTINGS",
+        "PINGELLY",
+        "PUMPHREYS BRIDGE",
+        "SPRINGS",
+        "WANDERING",
+        "WEST PINGELLY"
+    ],
+    "6309": [
+        "EAST POPANYINNING",
+        "POPANYINNING",
+        "STRATHERNE",
+        "WEST POPANYINNING"
+    ],
+    "6311": [
+        "COMMODINE",
+        "CONTINE",
+        "CUBALLING",
+        "DRYANDRA",
+        "LOL GRAY",
+        "TOWNSENDALE",
+        "WARDERING",
+        "YORNANING"
+    ],
+    "6312": [
+        "BOUNDAIN",
+        "DUMBERNING",
+        "HILLSIDE",
+        "MINIGIN",
+        "NARROGIN",
+        "NARROGIN VALLEY",
+        "NOMANS LAKE",
+        "TOOLIBIN",
+        "YILLIMINNING"
+    ],
+    "6313": [
+        "HIGHBURY"
+    ],
+    "6315": [
+        "ARTHUR RIVER",
+        "BALLAYING",
+        "CANCANNING",
+        "COLLANILLING",
+        "DONGOLOCKING",
+        "GUNDARING",
+        "JALORAN",
+        "LIME LAKE",
+        "MINDING",
+        "PIESSEVILLE",
+        "WAGIN",
+        "WEDGECARRUP"
+    ],
+    "6316": [
+        "BOYERINE",
+        "CARTMETICUP",
+        "GLENCOE",
+        "KENMARE",
+        "WESTWOOD",
+        "WOODANILLING"
+    ],
+    "6317": [
+        "BADGEBUP",
+        "BULLOCK HILLS",
+        "CARROLUP",
+        "COBLININE",
+        "COYRECUP",
+        "DATATINE",
+        "EWLYAMARTUP",
+        "KATANNING",
+        "MARRACOONDA",
+        "MOOJEBING",
+        "MURDONG",
+        "PINWERNYING",
+        "SOUTH DATATINE",
+        "SOUTH GLENCOE"
+    ],
+    "6318": [
+        "BROOMEHILL",
+        "BROOMEHILL EAST",
+        "BROOMEHILL VILLAGE",
+        "BROOMEHILL WEST"
+    ],
+    "6320": [
+        "BOBALONG",
+        "BORDERDALE",
+        "DARTNALL",
+        "LAKE TOOLBRUNUP",
+        "MOONIES HILL",
+        "TAMBELLUP",
+        "WANSBROUGH"
+    ],
+    "6321": [
+        "CRANBROOK"
+    ],
+    "6322": [
+        "TENTERDEN"
+    ],
+    "6323": [
+        "KENDENUP"
+    ],
+    "6324": [
+        "DENBARKER",
+        "FOREST HILL",
+        "MOUNT BARKER",
+        "PERILLUP",
+        "PORONGURUP",
+        "SOUTH STIRLING",
+        "TAKALARUP",
+        "WOOGENELLUP"
+    ],
+    "6326": [
+        "NARRIKUP"
+    ],
+    "6327": [
+        "REDMOND",
+        "REDMOND WEST"
+    ],
+    "6328": [
+        "CHEYNES",
+        "GNOWELLEN",
+        "GREEN RANGE",
+        "KOJANEERUP SOUTH",
+        "MANYPEAKS",
+        "METTLER",
+        "PALMDALE",
+        "WELLSTEAD"
+    ],
+    "6330": [
+        "ALBANY",
+        "BAYONET HEAD",
+        "BIG GROVE",
+        "BORNHOLM",
+        "CENTENNIAL PARK",
+        "COLLINGWOOD HEIGHTS",
+        "COLLINGWOOD PARK",
+        "CUTHBERT",
+        "DROME",
+        "ELLEKER",
+        "EMU POINT",
+        "FRENCHMAN BAY",
+        "GLEDHOW",
+        "GOODE BEACH",
+        "GREEN VALLEY",
+        "KALGAN",
+        "KING RIVER",
+        "KRONKUP",
+        "LANGE",
+        "LITTLE GROVE",
+        "LOCKYER",
+        "LOWER KING",
+        "LOWLANDS",
+        "MARBELUP",
+        "MCKAIL",
+        "MIDDLETON BEACH",
+        "MILLBROOK",
+        "MILPARA",
+        "MIRA MAR",
+        "MOUNT CLARENCE",
+        "MOUNT ELPHINSTONE",
+        "MOUNT MELVILLE",
+        "NANARUP",
+        "NAPIER",
+        "NULLAKI",
+        "ORANA",
+        "PORT ALBANY",
+        "ROBINSON",
+        "SANDPATCH",
+        "SEPPINGS",
+        "SPENCER PARK",
+        "TORBAY",
+        "TORNDIRRUP",
+        "VANCOUVER PENINSULA",
+        "WALMSLEY",
+        "WARRENUP",
+        "WEST CAPE HOWE",
+        "WILLYUNG",
+        "YAKAMIA",
+        "YOUNGS SIDING"
+    ],
+    "6331": [
+        "ALBANY DC"
+    ],
+    "6332": [
+        "ALBANY PO"
+    ],
+    "6333": [
+        "BOW BRIDGE",
+        "DENMARK",
+        "HAY",
+        "HAZELVALE",
+        "KENTDALE",
+        "KORDABUP",
+        "MOUNT LINDESAY",
+        "MOUNT ROMANCE",
+        "NORNALUP",
+        "OCEAN BEACH",
+        "PARRYVILLE",
+        "PEACEFUL BAY",
+        "SCOTSDALE",
+        "SHADFORTH",
+        "TINGLEDALE",
+        "TRENT",
+        "WILLIAM BAY"
+    ],
+    "6335": [
+        "GNOWANGERUP",
+        "JACKITUP",
+        "KEBARINGUP",
+        "PALLINUP"
+    ],
+    "6336": [
+        "COWALELLUP",
+        "MILLS LAKE",
+        "MINDARABIN",
+        "NEEDILUP",
+        "ONGERUP",
+        "TOOMPUP"
+    ],
+    "6337": [
+        "FITZGERALD",
+        "GAIRDNER",
+        "JACUP",
+        "JERRAMUNGUP",
+        "WEST FITZGERALD"
+    ],
+    "6338": [
+        "AMELUP",
+        "BORDEN",
+        "BOXWOOD HILL",
+        "BREMER BAY",
+        "MAGITUP",
+        "MONJEBUP",
+        "NALYERLUP",
+        "NORTH STIRLINGS",
+        "STIRLING RANGE NATIONAL PARK"
+    ],
+    "6341": [
+        "NYABING"
+    ],
+    "6343": [
+        "PINGRUP"
+    ],
+    "6346": [
+        "FITZGERALD RIVER NATIONAL PARK",
+        "JERDACUTTUP",
+        "RAVENSTHORPE",
+        "WEST RIVER"
+    ],
+    "6348": [
+        "HOPETOUN"
+    ],
+    "6350": [
+        "DUMBLEYUNG",
+        "NAIRIBIN",
+        "NIPPERING"
+    ],
+    "6351": [
+        "MOULYINNING",
+        "NORTH MOULYINNING"
+    ],
+    "6352": [
+        "KUKERIN",
+        "MERILUP",
+        "NORTH KUKERIN",
+        "SOUTH KUKERIN"
+    ],
+    "6353": [
+        "BEENONG",
+        "BUNICHE",
+        "KUENDER",
+        "LAKE GRACE",
+        "MALLEE HILL",
+        "NEENDALING",
+        "NORTH BURNGUP",
+        "NORTH LAKE GRACE",
+        "SOUTH LAKE GRACE",
+        "TARIN ROCK"
+    ],
+    "6355": [
+        "DUNN ROCK",
+        "EAST NEWDEGATE",
+        "HOLT ROCK",
+        "LAKE BIDDY",
+        "LAKE CAMM",
+        "LITTLE ITALY",
+        "MAGENTA",
+        "MOUNT SHERIDAN",
+        "NEWDEGATE",
+        "SOUTH NEWDEGATE",
+        "VARLEY"
+    ],
+    "6356": [
+        "HATTER HILL",
+        "LAKE KING",
+        "MOUNT MADDEN"
+    ],
+    "6357": [
+        "PINGARING"
+    ],
+    "6358": [
+        "KARLGARIN"
+    ],
+    "6359": [
+        "FORRESTANIA",
+        "HYDEN"
+    ],
+    "6361": [
+        "HARRISMITH",
+        "TINCURRIN"
+    ],
+    "6363": [
+        "DUDININ",
+        "WALYURIN"
+    ],
+    "6365": [
+        "JILAKIN",
+        "JITARNING",
+        "KULIN",
+        "KULIN WEST"
+    ],
+    "6367": [
+        "KONDININ"
+    ],
+    "6368": [
+        "SOUTH KUMMININ"
+    ],
+    "6369": [
+        "MOUNT WALKER",
+        "NAREMBEEN",
+        "WADDERIN",
+        "WEST HOLLETON",
+        "WOOLOCUTTY"
+    ],
+    "6370": [
+        "EAST WICKEPIN",
+        "KIRK ROCK",
+        "MALYALLING",
+        "WICKEPIN",
+        "WOGOLIN"
+    ],
+    "6372": [
+        "YEALERING"
+    ],
+    "6373": [
+        "BULLARING"
+    ],
+    "6375": [
+        "ADAMSVALE",
+        "BILBARIN",
+        "CORRIGIN",
+        "GORGE ROCK",
+        "KUNJIN",
+        "KURRENKUTTEN"
+    ],
+    "6383": [
+        "BADJALING",
+        "BALKULING",
+        "CUBBINE",
+        "DANGIN",
+        "DOODENANNING",
+        "DULBELLING",
+        "MOUNT STIRLING",
+        "QUAIRADING",
+        "SOUTH QUAIRADING",
+        "WAMENUSKING",
+        "YOTING"
+    ],
+    "6384": [
+        "PANTAPIN"
+    ],
+    "6385": [
+        "KWOLYIN"
+    ],
+    "6386": [
+        "SHACKLETON"
+    ],
+    "6390": [
+        "BANNISTER",
+        "BODDINGTON",
+        "CROSSMAN",
+        "LOWER HOTHAM",
+        "MARRADONG",
+        "MOUNT COOKE",
+        "MOUNT WELLS",
+        "NORTH BANNISTER",
+        "RANFORD",
+        "UPPER MURRAY",
+        "WURAMING"
+    ],
+    "6391": [
+        "QUINDANNING",
+        "WILLIAMS"
+    ],
+    "6392": [
+        "BOKAL",
+        "DARDADINE",
+        "DARKAN",
+        "MEEKING"
+    ],
+    "6393": [
+        "DURANILLIN",
+        "MOODIARRUP"
+    ],
+    "6394": [
+        "BEAUFORT RIVER",
+        "BOILUP",
+        "BOSCABEL",
+        "CHANGERUP",
+        "MOKUP",
+        "MURADUP",
+        "ORCHID VALLEY",
+        "QUALEUP"
+    ],
+    "6395": [
+        "CHERRY TREE POOL",
+        "JINGALUP",
+        "KOJONUP",
+        "LUMEAH",
+        "MOBRUP",
+        "RYANSBROOK"
+    ],
+    "6396": [
+        "FRANKLAND RIVER"
+    ],
+    "6397": [
+        "ROCKY GULLY"
+    ],
+    "6398": [
+        "BROKE",
+        "NORTH WALPOLE",
+        "WALPOLE"
+    ],
+    "6401": [
+        "BUCKLAND",
+        "BURLONG",
+        "CUNJARDINE",
+        "IRISHTOWN",
+        "JENNACUBBINE",
+        "JENNAPULLIN",
+        "MALABAINE",
+        "MEENAAR",
+        "MOKINE",
+        "MULUCKINE",
+        "MUMBERKINE",
+        "MURESK",
+        "NORTHAM",
+        "ROSSMORE",
+        "SOUTHERN BROOK",
+        "SPENCERS BROOK",
+        "THROSSELL",
+        "WONGAMINE"
+    ],
+    "6403": [
+        "GRASS VALLEY"
+    ],
+    "6405": [
+        "GREENWOODS VALLEY",
+        "MECKERING",
+        "QUELAGETTING",
+        "WARDING EAST"
+    ],
+    "6407": [
+        "CUNDERDIN",
+        "WAEEL",
+        "WATERCARRIN",
+        "WYOLA WEST",
+        "YOUNDEGIN"
+    ],
+    "6409": [
+        "NORTH TAMMIN",
+        "SOUTH TAMMIN",
+        "TAMMIN"
+    ],
+    "6410": [
+        "DAADENNING CREEK",
+        "KELLERBERRIN",
+        "MOUNT CAROLINE",
+        "NORTH KELLERBERRIN"
+    ],
+    "6411": [
+        "DOODLAKINE",
+        "SOUTH DOODLAKINE"
+    ],
+    "6412": [
+        "BAANDEE",
+        "NORTH BAANDEE"
+    ],
+    "6413": [
+        "HINES HILL"
+    ],
+    "6414": [
+        "NANGEENAN"
+    ],
+    "6415": [
+        "GOOMARIN",
+        "KORBEL",
+        "MERREDIN",
+        "NOKANING",
+        "NORPA",
+        "TANDEGIN"
+    ],
+    "6418": [
+        "BRUCE ROCK"
+    ],
+    "6419": [
+        "ARDATH"
+    ],
+    "6420": [
+        "CRAMPHORNE",
+        "MUNTADGIN"
+    ],
+    "6421": [
+        "BURRACOPPIN",
+        "SOUTH BURRACOPPIN",
+        "WARRALAKIN"
+    ],
+    "6422": [
+        "WALGOOLAN"
+    ],
+    "6423": [
+        "BOODAROCKIN",
+        "CARRABIN",
+        "WARRACHUPPIN",
+        "WESTONIA"
+    ],
+    "6424": [
+        "BODALLIN",
+        "NORTH BODALLIN",
+        "SOUTH BODALLIN"
+    ],
+    "6425": [
+        "DULYALBIN",
+        "MOORINE ROCK"
+    ],
+    "6426": [
+        "CORINTHIA",
+        "GHOOLI",
+        "HOLLETON",
+        "MARVEL LOCH",
+        "MOUNT HAMPTON",
+        "MOUNT HOLLAND",
+        "MOUNT JACKSON",
+        "MOUNT PALMER",
+        "PARKER RANGE",
+        "SKELETON ROCK",
+        "SOUTH YILGARN",
+        "SOUTHERN CROSS",
+        "TURKEY HILL",
+        "YELLOWDINE"
+    ],
+    "6427": [
+        "KOOLYANOBBING"
+    ],
+    "6428": [
+        "BABAKIN"
+    ],
+    "6429": [
+        "BOORABBIN",
+        "BULLABULLING",
+        "COOLGARDIE",
+        "KARRAMINDIE",
+        "LONDONDERRY",
+        "MOUNT BURGES",
+        "VICTORIA ROCK",
+        "WALLAROO"
+    ],
+    "6430": [
+        "BINDULI",
+        "BROADWOOD",
+        "HANNANS",
+        "KALGOORLIE",
+        "KARLKURLA",
+        "LAMINGTON",
+        "MULLINGAR",
+        "PICCADILLY",
+        "SOMERVILLE",
+        "SOUTH KALGOORLIE",
+        "WEST KALGOORLIE",
+        "WEST LAMINGTON",
+        "WILLIAMSTOWN",
+        "YILKARI"
+    ],
+    "6431": [
+        "BOORARA",
+        "BROWN HILL",
+        "BULONG",
+        "EMU FLAT",
+        "FEYSVILLE",
+        "KANOWNA",
+        "KOOKYNIE",
+        "KURNALPI",
+        "LAKEWOOD",
+        "ORA BANDA",
+        "PLUMRIDGE LAKES",
+        "TRAFALGAR",
+        "WARBURTON"
+    ],
+    "6432": [
+        "BOULDER",
+        "FIMISTON",
+        "SOUTH BOULDER",
+        "VICTORY HEIGHTS"
+    ],
+    "6433": [
+        "HANNANS PO",
+        "KALGOORLIE DC",
+        "KALGOORLIE PO"
+    ],
+    "6434": [
+        "CUNDEELEE",
+        "FORREST",
+        "PARKESTON",
+        "RAWLINNA",
+        "ZANTHUS"
+    ],
+    "6436": [
+        "MENZIES",
+        "ULARRING"
+    ],
+    "6437": [
+        "LEINSTER",
+        "SIR SAMUEL"
+    ],
+    "6438": [
+        "LAKE DARLOT",
+        "LEONORA"
+    ],
+    "6440": [
+        "BANDYA",
+        "BEADELL",
+        "COSMO NEWBERY",
+        "LAKE WELLS",
+        "LAVERTON",
+        "NEALE"
+    ],
+    "6442": [
+        "KAMBALDA EAST",
+        "KAMBALDA WEST"
+    ],
+    "6443": [
+        "BALLADONIA",
+        "CAIGUNA",
+        "COCKLEBIDDY",
+        "DUNDAS",
+        "EUCLA",
+        "FRASER RANGE",
+        "HIGGINSVILLE",
+        "MADURA",
+        "MUNDRABILLA",
+        "NORSEMAN",
+        "WIDGIEMOOLTHA"
+    ],
+    "6445": [
+        "NORTH CASCADE",
+        "SALMON GUMS"
+    ],
+    "6446": [
+        "GRASS PATCH"
+    ],
+    "6447": [
+        "LORT RIVER",
+        "MOUNT NEY",
+        "SCADDAN",
+        "WITTENOOM HILLS"
+    ],
+    "6448": [
+        "GIBSON"
+    ],
+    "6450": [
+        "BANDY CREEK",
+        "BEAUMONT",
+        "BOYATUP",
+        "CAPE LE GRAND",
+        "CASCADE",
+        "CASTLETOWN",
+        "CHADWICK",
+        "CONDINGUP",
+        "COOMALBIDGUP",
+        "DALYUP",
+        "EAST MUNGLINUP",
+        "ESPERANCE",
+        "HOWICK",
+        "MERIVALE",
+        "MONJINGUP",
+        "MUNGLINUP",
+        "MYRUP",
+        "NERIDUP",
+        "NULSEN",
+        "PINK LAKE",
+        "SINCLAIR",
+        "WEST BEACH",
+        "WINDABOUT"
+    ],
+    "6452": [
+        "BURAMINYA",
+        "CAPE ARID",
+        "ISRAELITE BAY"
+    ],
+    "6460": [
+        "GOOMALLING",
+        "HULONGINE",
+        "KARRANADGIN",
+        "UCARTY WEST",
+        "WALYORMOURING"
+    ],
+    "6461": [
+        "DOWERIN",
+        "KOOMBERKINE"
+    ],
+    "6462": [
+        "HINDMARSH",
+        "MINNIVALE",
+        "UCARTY"
+    ],
+    "6463": [
+        "BENJABERRING"
+    ],
+    "6465": [
+        "MANMANNING"
+    ],
+    "6466": [
+        "CADOUX"
+    ],
+    "6467": [
+        "BURAKIN"
+    ],
+    "6468": [
+        "GOODLANDS",
+        "KALANNIE",
+        "PETRUDOR"
+    ],
+    "6470": [
+        "KULJA"
+    ],
+    "6472": [
+        "BEACON",
+        "BIMBIJY",
+        "CLEARY",
+        "KARROUN HILL",
+        "MOUROUBRA",
+        "REMLAP",
+        "TAMPU"
+    ],
+    "6473": [
+        "NORTH WIALKI",
+        "WIALKI"
+    ],
+    "6475": [
+        "BADGERIN ROCK",
+        "BOORALAMING",
+        "DUKIN",
+        "KOORDA",
+        "LAKE MARGARETTE",
+        "MOLLERIN",
+        "NEWCARLBEON"
+    ],
+    "6476": [
+        "GABBIN"
+    ],
+    "6477": [
+        "BENCUBBIN",
+        "WELBUNGIN"
+    ],
+    "6479": [
+        "BARBALIN",
+        "BONNIE ROCK",
+        "DANDANNING",
+        "ELACHBUTTING",
+        "KARLONING",
+        "LAKE BROWN",
+        "MUKINBUDIN",
+        "WATTONING",
+        "WILGOYNE"
+    ],
+    "6480": [
+        "NUKARNI"
+    ],
+    "6484": [
+        "BULLFINCH",
+        "ENNUIN",
+        "LAKE DEBORAH"
+    ],
+    "6485": [
+        "COWCOWING",
+        "KORRELOCKING",
+        "NALKAIN",
+        "NEMBUDDING",
+        "WYALKATCHEM"
+    ],
+    "6487": [
+        "NORTH YELBENI",
+        "SOUTH YELBENI",
+        "YELBENI"
+    ],
+    "6488": [
+        "NORTH TRAYNING",
+        "SOUTH TRAYNING",
+        "TRAYNING"
+    ],
+    "6489": [
+        "KUNUNOPPIN",
+        "NORTH KUNUNOPPIN",
+        "SOUTH KUNUNOPPIN"
+    ],
+    "6490": [
+        "BURRAN ROCK",
+        "CHANDLER",
+        "ELABBIN",
+        "KWELKAN",
+        "NUNGARIN",
+        "TALGOMINE"
+    ],
+    "6501": [
+        "MUCHEA"
+    ],
+    "6502": [
+        "BINDOON",
+        "BINDOON TRAINING AREA"
+    ],
+    "6503": [
+        "BAMBUN",
+        "BEERMULLAH",
+        "BOONANARRING",
+        "BREERA",
+        "COONABIDGEE",
+        "COWALLA",
+        "CULLALLA",
+        "GINGIN",
+        "GINGINUP",
+        "GRANVILLE",
+        "LENNARD BROOK",
+        "MINDARRA",
+        "MOONDAH",
+        "MOORE RIVER NATIONAL PARK",
+        "MUCKENBURRA",
+        "NEERGABBY",
+        "ORANGE SPRINGS",
+        "RED GULLY",
+        "WANERIE",
+        "YEAL"
+    ],
+    "6504": [
+        "MOOLIABEENEE"
+    ],
+    "6505": [
+        "WANNAMAL"
+    ],
+    "6506": [
+        "MOGUMBER"
+    ],
+    "6507": [
+        "CATABY",
+        "COOLJARLOO",
+        "DANDARAGAN",
+        "MIMEGARRA",
+        "REGANS FORD",
+        "YATHROO"
+    ],
+    "6509": [
+        "GLENTROMIE",
+        "NEW NORCIA",
+        "WADDINGTON",
+        "YARAWINDAH"
+    ],
+    "6510": [
+        "BARBERTON",
+        "BERKSHIRE VALLEY",
+        "GILLINGARRA",
+        "KOOJAN",
+        "MOORA",
+        "WALEBING"
+    ],
+    "6511": [
+        "CERVANTES"
+    ],
+    "6512": [
+        "COOMBERDALE",
+        "NAMBAN"
+    ],
+    "6513": [
+        "GUNYIDI",
+        "WATHEROO"
+    ],
+    "6514": [
+        "GREEN HEAD",
+        "LEEMAN"
+    ],
+    "6515": [
+        "COOROW",
+        "EGANU",
+        "MARCHAGEE",
+        "WADDY FOREST"
+    ],
+    "6516": [
+        "JURIEN BAY"
+    ],
+    "6517": [
+        "CARNAMAH"
+    ],
+    "6518": [
+        "ENEABBA",
+        "WARRADARGE"
+    ],
+    "6519": [
+        "ARRINO",
+        "ARROWSMITH EAST",
+        "DUDAWA",
+        "KADATHINNI",
+        "THREE SPRINGS",
+        "WOMARDEN"
+    ],
+    "6521": [
+        "BADGINGARRA",
+        "BOOTHENDARRA",
+        "GREY",
+        "HILL RIVER",
+        "NAMBUNG"
+    ],
+    "6522": [
+        "BUNDANOON",
+        "HOLMWOOD",
+        "IKEWA",
+        "LOCKIER",
+        "MINGENEW",
+        "MOORIARY",
+        "MOUNT BUDD",
+        "NANGETTY",
+        "YANDANOOKA",
+        "YARRAGADEE"
+    ],
+    "6525": [
+        "ALLANOOKA",
+        "ARROWSMITH",
+        "BONNIEFIELD",
+        "BOOKARA",
+        "DONGARA",
+        "IRWIN",
+        "MILO",
+        "MOUNT ADAMS",
+        "MOUNT HORNER",
+        "PORT DENISON",
+        "SPRINGFIELD",
+        "YARDARINO"
+    ],
+    "6528": [
+        "MOUNT HILL",
+        "SOUTH GREENOUGH",
+        "WALKAWAY"
+    ],
+    "6530": [
+        "BEACHLANDS",
+        "BERESFORD",
+        "BLUFF POINT",
+        "GERALDTON",
+        "HOUTMAN ABROLHOS",
+        "KARLOO",
+        "MAHOMETS FLATS",
+        "MERU",
+        "MORESBY",
+        "MOUNT TARCOOLA",
+        "RANGEWAY",
+        "SPALDING",
+        "STRATHALBYN",
+        "SUNSET BEACH",
+        "TARCOOLA BEACH",
+        "UTAKARRA",
+        "WAGGRAKINE",
+        "WANDINA",
+        "WEBBERTON",
+        "WEST END",
+        "WONTHELLA",
+        "WOORREE"
+    ],
+    "6531": [
+        "GERALDTON PO"
+    ],
+    "6532": [
+        "AJANA",
+        "BINNU",
+        "BOOTENAL",
+        "BRINGO",
+        "BULLER",
+        "BURMA ROAD",
+        "CAPE BURNEY",
+        "CARRARANG",
+        "COBURN",
+        "COOLCALALAYA",
+        "DARTMOOR",
+        "DEEPDALE",
+        "DINDILOA",
+        "DRUMMOND COVE",
+        "DURAWAH",
+        "EAST CHAPMAN",
+        "EAST NABAWA",
+        "EAST YUNA",
+        "ELLENDALE",
+        "ERADU",
+        "ERADU SOUTH",
+        "EURARDY",
+        "GEORGINA",
+        "GLENFIELD",
+        "GREENOUGH",
+        "HAMELIN POOL",
+        "HICKETY",
+        "HOWATHARRA",
+        "KOJARENA",
+        "MARRAH",
+        "MEADOW",
+        "MINNENOOKA",
+        "MOONYOONOOKA",
+        "MOUNT ERIN",
+        "NABAWA",
+        "NANSON",
+        "NARALING",
+        "NARNGULU",
+        "NARRA TARRA",
+        "NERREN NERREN",
+        "NOLBA",
+        "NORTH ERADU",
+        "NORTHERN GULLY",
+        "OAKAJEE",
+        "ROCKWELL",
+        "RUDDS GULLY",
+        "SANDSPRINGS",
+        "SOUTH YUNA",
+        "TAMALA",
+        "TIBRADDEN",
+        "TOOLONGA",
+        "VALENTINE",
+        "WANDANA",
+        "WEST BINNU",
+        "WHITE PEAK",
+        "WICHERINA",
+        "WICHERINA SOUTH",
+        "YETNA",
+        "YUNA"
+    ],
+    "6535": [
+        "ALMA",
+        "BOWES",
+        "EAST BOWES",
+        "GREGORY",
+        "HORROCKS",
+        "ISSEKA",
+        "NORTHAMPTON",
+        "OGILVIE",
+        "SANDY GULLY",
+        "YALLABATHARRA"
+    ],
+    "6536": [
+        "KALBARRI",
+        "KALBARRI NATIONAL PARK",
+        "ZUYTDORP"
+    ],
+    "6537": [
+        "DENHAM",
+        "DIRK HARTOG ISLAND",
+        "FRANCOIS PERON NATIONAL PARK",
+        "MONKEY MIA",
+        "NANGA",
+        "SHARK BAY",
+        "USELESS LOOP"
+    ],
+    "6556": [
+        "BEECHINA",
+        "CHIDLOW",
+        "GORRIE",
+        "MALMALLING",
+        "THE LAKES"
+    ],
+    "6558": [
+        "WOOROLOO"
+    ],
+    "6560": [
+        "WUNDOWIE"
+    ],
+    "6562": [
+        "BAKERS HILL",
+        "COPLEY",
+        "WOOTTATING"
+    ],
+    "6564": [
+        "CLACKLINE"
+    ],
+    "6566": [
+        "BEJOORDING",
+        "CARANI",
+        "COONDLE",
+        "CULHAM",
+        "DUMBARTON",
+        "HODDYS WELL",
+        "KATRINE",
+        "NUNILE",
+        "TOODYAY",
+        "WEST TOODYAY"
+    ],
+    "6567": [
+        "DEWARS POOL",
+        "JULIMAR",
+        "MOONDYNE"
+    ],
+    "6568": [
+        "BOLGART",
+        "WATTENING",
+        "WYENING"
+    ],
+    "6569": [
+        "CALINGIRI",
+        "OLD PLAINS"
+    ],
+    "6571": [
+        "YERECOIN"
+    ],
+    "6572": [
+        "PIAWANING"
+    ],
+    "6574": [
+        "BINDI BINDI",
+        "GABALONG"
+    ],
+    "6575": [
+        "MILING"
+    ],
+    "6603": [
+        "KONNONGORRING",
+        "LAKE HINDS",
+        "LAKE NINAN",
+        "MOCARDY",
+        "WONGAN HILLS"
+    ],
+    "6605": [
+        "KONDUT"
+    ],
+    "6606": [
+        "BALLIDU",
+        "EAST BALLIDU",
+        "WEST BALLIDU"
+    ],
+    "6608": [
+        "EAST DAMBORING",
+        "MARNE",
+        "PITHARA"
+    ],
+    "6609": [
+        "DALWALLINU",
+        "NUGADONG",
+        "XANTIPPE"
+    ],
+    "6612": [
+        "JIBBERDING",
+        "MIAMOON",
+        "PAYNES FIND",
+        "WUBIN"
+    ],
+    "6613": [
+        "BUNTINE"
+    ],
+    "6614": [
+        "MAYA"
+    ],
+    "6616": [
+        "LATHAM"
+    ],
+    "6620": [
+        "PERENJORI",
+        "ROTHSAY"
+    ],
+    "6623": [
+        "BOWGADA",
+        "BUNJIL",
+        "GUTHA",
+        "KOOLANOOKA",
+        "MORAWA",
+        "PINTHARUKA"
+    ],
+    "6625": [
+        "MERKANOOKA"
+    ],
+    "6627": [
+        "CANNA"
+    ],
+    "6628": [
+        "TARDUN"
+    ],
+    "6630": [
+        "DEVILS CREEK",
+        "MULLEWA",
+        "MURCHISON",
+        "NERRAMYNE",
+        "NUNIERRA",
+        "WEST CASUARINAS",
+        "WONGOONDY",
+        "WOOLGORONG"
+    ],
+    "6631": [
+        "PINDAR"
+    ],
+    "6632": [
+        "AMBANIA",
+        "TENINDEWA"
+    ],
+    "6635": [
+        "SOUTH MURCHISON",
+        "YALGOO"
+    ],
+    "6638": [
+        "COOLADAR HILL",
+        "DAGGAR HILLS",
+        "MOUNT MAGNET",
+        "PAYNESVILLE"
+    ],
+    "6639": [
+        "SANDSTONE"
+    ],
+    "6640": [
+        "CUE",
+        "EAST MURCHISON",
+        "LAKE AUSTIN",
+        "REEDY",
+        "WELD RANGE"
+    ],
+    "6642": [
+        "ANGELO RIVER",
+        "CAPRICORN",
+        "KUMARINA",
+        "MEEKATHARRA",
+        "PEAK HILL"
+    ],
+    "6646": [
+        "LAKE CARNEGIE",
+        "LITTLE SANDY DESERT",
+        "WILUNA"
+    ],
+    "6701": [
+        "BABBAGE ISLAND",
+        "BERNIER ISLAND",
+        "BROCKMAN",
+        "BROWN RANGE",
+        "CARBLA",
+        "CARNARVON",
+        "CORAL BAY",
+        "DORRE ISLAND",
+        "EAST CARNARVON",
+        "GILROYD",
+        "GREYS PLAIN",
+        "INGGARDA",
+        "KENNEDY RANGE",
+        "KINGSFORD",
+        "LYNDON",
+        "MACLEOD",
+        "MASSEY BAY",
+        "MINILYA",
+        "MORGANTOWN",
+        "NINGALOO",
+        "NORTH PLANTATIONS",
+        "SOUTH CARNARVON",
+        "SOUTH PLANTATIONS",
+        "TALISKER",
+        "WOODLEIGH",
+        "WOORAMEL",
+        "YALARDY",
+        "YANDOO CREEK"
+    ],
+    "6705": [
+        "EAST LYONS RIVER",
+        "GASCOYNE JUNCTION",
+        "GASCOYNE RIVER",
+        "WEST LYONS RIVER"
+    ],
+    "6707": [
+        "CAPE RANGE NATIONAL PARK",
+        "EXMOUTH",
+        "EXMOUTH GULF",
+        "LEARMONTH",
+        "NORTH WEST CAPE"
+    ],
+    "6710": [
+        "CANE",
+        "ONSLOW",
+        "PEEDAMULLA",
+        "TALANDJI",
+        "YANNARIE"
+    ],
+    "6711": [
+        "THEVENARD ISLAND"
+    ],
+    "6712": [
+        "BARROW ISLAND"
+    ],
+    "6713": [
+        "DAMPIER",
+        "DAMPIER ARCHIPELAGO"
+    ],
+    "6714": [
+        "ANTONYMYRE",
+        "BALLA BALLA",
+        "BAYNTON",
+        "BULGARRA",
+        "BURRUP",
+        "CLEAVERVILLE",
+        "COOYA POOYA",
+        "GAP RIDGE",
+        "GNOOREA",
+        "KARRATHA",
+        "KARRATHA INDUSTRIAL ESTATE",
+        "MAITLAND",
+        "MARDIE",
+        "MILLARS WELL",
+        "MOUNT ANKETELL",
+        "MULATAGA",
+        "NICKOL",
+        "PEGS CREEK",
+        "SHERLOCK",
+        "STOVE HILL"
+    ],
+    "6716": [
+        "FORTESCUE",
+        "HAMERSLEY RANGE",
+        "MILLSTREAM",
+        "PANNAWONICA"
+    ],
+    "6718": [
+        "ROEBOURNE",
+        "WHIM CREEK"
+    ],
+    "6720": [
+        "COSSACK",
+        "POINT SAMSON",
+        "WICKHAM"
+    ],
+    "6721": [
+        "INDEE",
+        "MUNDABULLANGANA",
+        "PARDOO",
+        "PORT HEDLAND",
+        "REDBANK",
+        "STRELLEY",
+        "WALLAREENYA",
+        "WEDGEFIELD"
+    ],
+    "6722": [
+        "BOODARIE",
+        "DE GREY",
+        "FINUCANE",
+        "PIPPINGARRA",
+        "SOUTH HEDLAND"
+    ],
+    "6725": [
+        "BILINGURR",
+        "BROOME",
+        "DAMPIER PENINSULA",
+        "DJUGUN",
+        "EIGHTY MILE BEACH",
+        "GINGERAH",
+        "LAGRANGE",
+        "MINYIRR",
+        "ROEBUCK",
+        "WATERBANK"
+    ],
+    "6726": [
+        "CABLE BEACH"
+    ],
+    "6728": [
+        "CAMBALLIN",
+        "DERBY",
+        "GEEGULLY CREEK",
+        "KIMBOLTON",
+        "KING LEOPOLD RANGES",
+        "MEDA",
+        "ST GEORGE RANGES",
+        "WILLARE"
+    ],
+    "6731": [
+        "COCKATOO ISLAND"
+    ],
+    "6733": [
+        "KOOLAN ISLAND"
+    ],
+    "6740": [
+        "DRYSDALE RIVER",
+        "KALUMBURU",
+        "MITCHELL PLATEAU",
+        "OOMBULGURRI",
+        "PRINCE REGENT RIVER",
+        "WYNDHAM"
+    ],
+    "6743": [
+        "CAMBRIDGE GULF",
+        "DURACK",
+        "GIBB",
+        "KUNUNURRA",
+        "LAKE ARGYLE",
+        "WARMUN"
+    ],
+    "6751": [
+        "CHICHESTER",
+        "INNAWANGA",
+        "JUNA DOWNS",
+        "KARIJINI",
+        "MOUNT SHEILA",
+        "MULGA DOWNS",
+        "NANUTARRA",
+        "ROCKLEA",
+        "TOM PRICE",
+        "WITTENOOM"
+    ],
+    "6753": [
+        "NEWMAN"
+    ],
+    "6754": [
+        "PARABURDOO"
+    ],
+    "6758": [
+        "NULLAGINE"
+    ],
+    "6760": [
+        "MARBLE BAR"
+    ],
+    "6762": [
+        "TELFER"
+    ],
+    "6765": [
+        "FITZROY CROSSING",
+        "MOUNT HARDMAN"
+    ],
+    "6770": [
+        "HALLS CREEK",
+        "MCBEATH",
+        "MUELLER RANGES",
+        "ORD RIVER",
+        "PURNULULU",
+        "STURT CREEK",
+        "TANAMI"
+    ],
+    "6798": [
+        "CHRISTMAS ISLAND"
+    ],
+    "6831": [
+        "PERTH ST GEORGES TCE"
+    ],
+    "6832": [
+        "PERTH ADELAIDE TCE"
+    ],
+    "6849": [
+        "PERTH BC"
+    ],
+    "6850": [
+        "CLOISTERS SQUARE PO"
+    ],
+    "6904": [
+        "SUBIACO PO"
+    ],
+    "6905": [
+        "NORTHLANDS PO"
+    ],
+    "6925": [
+        "WALLISTON DC"
+    ],
+    "6936": [
+        "MIDLAND DC"
+    ],
+    "6942": [
+        "BASSENDEAN DC"
+    ],
+    "6945": [
+        "MALAGA DC"
+    ],
+    "6958": [
+        "ROYAL AUSTRALIAN NAVY WARSHIPS"
+    ],
+    "6960": [
+        "MYAREE BC"
+    ],
+    "6966": [
+        "KWINANA"
+    ],
+    "6986": [
+        "WELSHPOOL DC"
+    ],
+    "0872": [
+        "GIBSON DESERT NORTH",
+        "GIBSON DESERT SOUTH",
+        "KIWIRRKURRA",
+        "NGAANYATJARRA-GILES",
+        "PATJARR",
+        "TJIRRKARLI",
+        "TJUKURLA",
+        "WANNARN",
+        "WINGELLINA"
+    ]
+}
