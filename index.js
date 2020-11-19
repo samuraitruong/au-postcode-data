@@ -29,9 +29,11 @@ async function getInfo(url) {
     const res = await axios.get(url);
     const $ = cheerio.load(res.data);
     const strong = $('#colTwo strong').toArray();
+    const a = $('h4 a').toArray();
     const data = {
       name: $(strong[1]).text(),
       postcode: $(strong[2]).text(),
+      state: $(a[1]).text().trim(),
     };
 
     console.log(data);
@@ -65,7 +67,19 @@ async function fetch(state) {
     spaces: 4,
   });
 }
+async function getCommonPostCode() {
+  const res = await axios.get('http://post-code.net.au/common');
+  const $ = cheerio.load(res.data);
+  const list = $('table td a')
+    .toArray()
+    .map((x) => $(x).attr('href'));
+
+  const results = await (await asyncPool(50, list, getInfo)).filter(Boolean);
+
+  fs.writeJsonSync('./data/common.json', results);
+}
 (async () => {
+  await getCommonPostCode();
   await fetch('vic');
   await fetch('tas');
   await fetch('wa');
